@@ -617,6 +617,7 @@ contra.gr##.ad.currentArea-topStories
 skroutz.gr###sponsorship
 newsbeast.gr###imgAd
 newsbeast.gr###adFixFooter
+gazzetta.gr###content-banner-korios
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
