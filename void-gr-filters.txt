@@ -613,6 +613,7 @@ skai.gr##.banner
 news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.jpg) no-repeat left;  text-align:center;background-color: #F3F3F3;border-bottom:1px solid #E6E6E6;padding:4px 0px;"]
 gazzetta.gr##A[href*="http://adserver.itsfogo.com/"]
 gazzetta.gr##A[href*="http://partner.sbaffiliates.com/"]
+gazzetta.gr##A[href*="http://www.bet-at-home.com/"]
 contra.gr##.ad.currentArea-topStories
 skroutz.gr###sponsorship
 newsbeast.gr###imgAd
