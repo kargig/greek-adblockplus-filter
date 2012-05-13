@@ -497,13 +497,13 @@ avgi.gr##A.fjmdiucexipcopnrmtke
 bno.gr##IFRAME.blockrandom
 bno.gr##A[href*=linkwise]
 derby.gr##A[href*="http://www.bet-at-home.com/"]
-##A[href*="https://adserver.itsfogo.com"]
+##A[href*="adserver.itsfogo.com"]
 ##A[href*="http://axiabanners.exodus.gr/"]
 capital.gr##A[href*="http://www.capital.gr/click.asp"]
 ##A[href*="http://interactive.forthnet.gr/click?"]
-##A[href*="http://adman.otenet.gr/click?"]
+##A[href*="adman.otenet.gr/click?"]
 sport-fm.gr##A[href*="http://www.plaisio.gr"]
-##A[href*="http://serve.williamhill.com/"]
+##A[href*="serve.williamhill.com/"]
 ##A[href*="http://affiliates.stanjamesaffiliates.com/"]
 gazzetta.gr##A.betAtHome
 in.gr##div[class="textlink"]
@@ -620,6 +620,10 @@ skroutz.gr###sponsorship
 newsbeast.gr###imgAd
 newsbeast.gr###adFixFooter
 gazzetta.gr###content-banner-korios
+sport-fm.gr##A[href="#0.1_"]
+sport-fm.gr##A[href*="http://adserver.itsfogo.com/"]
+sport-fm.gr##A[href*="http://adfarm.mediaplex.com/"]
+sport-fm.gr##A[href*="http://serve.williamhill.com/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
