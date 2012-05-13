@@ -624,6 +624,9 @@ sport-fm.gr##A[href="#0.1_"]
 sport-fm.gr##A[href*="http://adserver.itsfogo.com/"]
 sport-fm.gr##A[href*="http://adfarm.mediaplex.com/"]
 sport-fm.gr##A[href*="http://serve.williamhill.com/"]
+aegeanews24.gr##.inlineads
+aegeanews24.gr##.ads
+aegeanews24.gr##.dockads.left
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
