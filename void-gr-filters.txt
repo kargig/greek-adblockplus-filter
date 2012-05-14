@@ -629,6 +629,7 @@ sport-fm.gr##A[href*="http://serve.williamhill.com/"]
 aegeanews24.gr##.inlineads
 aegeanews24.gr##.ads
 aegeanews24.gr##.dockads.left
+koutipandoras.gr##.wpbrbannerinside
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
