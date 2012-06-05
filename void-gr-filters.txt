@@ -10,6 +10,7 @@
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ||sport-fm.gr/resrc/campaigns/nike-chleague/*
+||sport-fm.gr/resrc/campaigns/cocacola-euro2012/box_*.jpg
 ||contra.gr/Basketball/article1799945.ece/BINARY/ORIGINAL
 ||in.gr/Themes/1/Default/Media/havana180X18.jpg
 ||koutipandoras.gr/wp-content/uploads/2012/05/talesoftaste_510x210.gif
