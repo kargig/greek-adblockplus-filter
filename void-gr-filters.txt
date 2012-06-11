@@ -639,6 +639,7 @@ aegeanews24.gr##.dockads.left
 koutipandoras.gr##.wpbrbannerinside
 adslgr.com##.adForumAdDiv
 contra.gr##.mythos
+newsbomb.gr##DIV[style="mergin:5px 0"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
