@@ -9,6 +9,7 @@
 !
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+||thestival.gr/images/stories/banners/australia_banner.gif
 ||skai.gr/files/1/banners/eko300x100_new.swf
 ||skai.gr/Themes/1/Default/Media/Skins/eurobank-skin.jpg
 ||in.gr/Themes/1/Default/Media/sensodyne-logo.png
