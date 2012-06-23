@@ -9,6 +9,8 @@
 !
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+||scoreline.com.cy/images/euro2012/bg-wh.jpg
+||sport-fm.gr/resrc/images/layout/videos/webTVBG-vodafone.png
 ||sport-fm.gr/resrc/banners/peiraiwsSkin*
 ||in.gr/Themes/1/Default/Media/slideshow-2.gif
 ||abimg.gr/files/listerine_skin_v2.jpg
