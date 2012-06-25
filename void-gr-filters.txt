@@ -9,6 +9,7 @@
 !
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+||onlinedelivery.gr/banners/*
 ||scoreline.com.cy/images/euro2012/bg-wh.jpg
 ||sport-fm.gr/resrc/images/layout/videos/webTVBG-vodafone.png
 ||sport-fm.gr/resrc/banners/peiraiwsSkin*
@@ -648,6 +649,8 @@ koutipandoras.gr##.wpbrbannerinside
 adslgr.com##.adForumAdDiv
 contra.gr##.mythos
 newsbomb.gr##DIV[style="mergin:5px 0"]
+homedelivery.gr##.homebannerright
+homedelivery.gr##.bannerbottom
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
