@@ -651,6 +651,7 @@ contra.gr##.mythos
 newsbomb.gr##DIV[style="mergin:5px 0"]
 homedelivery.gr##.homebannerright
 homedelivery.gr##.bannerbottom
+clickatlife.gr###adLinks
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
