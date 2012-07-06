@@ -634,7 +634,6 @@ news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.j
 gazzetta.gr##A[href*="http://adserver.itsfogo.com/"]
 gazzetta.gr##A[href*="http://partner.sbaffiliates.com/"]
 gazzetta.gr##A[href*="http://www.bet-at-home.com/"]
-contra.gr##.ad.currentArea-topStories
 skroutz.gr###sponsorship
 newsbeast.gr###imgAd
 newsbeast.gr###adFixFooter
