@@ -410,6 +410,7 @@ ad.gr.doubleclick.net
 ||protothema.gr/files/1/bg-banners/*
 ||protothema.gr/files/1/2012/01/29/opap.jpg
 ||adman.kathimerini.gr/*
+||f-1.gr/adv/CLIENT/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
