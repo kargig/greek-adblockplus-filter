@@ -411,6 +411,8 @@ ad.gr.doubleclick.net
 ||protothema.gr/files/1/2012/01/29/opap.jpg
 ||adman.kathimerini.gr/*
 ||f-1.gr/adv/CLIENT/*
+||newsit.gr/templates/default/images/newsit-11888-search.png
+||s3.amazonaws.com/bulkimages/2011/skins/newsit-11888-bg.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -655,6 +657,7 @@ homedelivery.gr##.homebannerright
 homedelivery.gr##.bannerbottom
 clickatlife.gr###adLinks
 koutipandoras.gr###topfeatured
+newsit.gr###sponsor-link
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
