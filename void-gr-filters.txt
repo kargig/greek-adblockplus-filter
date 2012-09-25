@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Greek AdBlock Plus List
-! Last Modified: Mon Mar 29 14:49:04 CET 2012
+! Last Modified: Tue Sep 25 18:02:58 EEST 2012
 ! Expires: 2 days
 !
 ! filter by kargig[at]void[dot]gr
@@ -9,6 +9,7 @@
 !
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+||in.gr/Themes/1/Default/Media/senso_pro_180x18pix.jpg
 ||contra.gr/genika/article1938232.ece/Binary/original/header.png
 ||financial.kathimerini.gr/piraeus_banner.swf
 ||skai.gr/Themes/1/Default/Media/Skins/alpha_romeo_skin_2.png
