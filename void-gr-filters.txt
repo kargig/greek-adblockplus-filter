@@ -664,6 +664,7 @@ koutipandoras.gr###topfeatured
 newsit.gr###sponsor-link
 newsit.gr###right
 newsit.gr###left
+gazzetta.gr##A[href*="http://ff.connextra.com/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
@@ -682,6 +683,7 @@ newsit.gr###left
 @@||athinorama.gr/adv/lmnts/earth/*.swf
 @@||athinorama.gr/adv/lmnts/blank.gif
 @@||athinorama.gr/adv/lmnts/disimata/*
+@@||skaihd-f.akamaihd.net/z/advert/*
 ! Exceptions to element hiding
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
