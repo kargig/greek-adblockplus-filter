@@ -13,7 +13,7 @@
 ||parallaximag.gr/sites/default/files/pictures/goethe_banner3.swf
 ||skai.gr/Themes/1/Default/Media/Skins/samsung*
 ||insomnia.gr/images/backgrounds/warcraft2.jpg
-||in.gr/Themes/1/Default/Media/senso_pro_180x18pix.jpg
+||in.gr/Themes/1/Default/Media/senso_pro*
 ||contra.gr/genika/article1938232.ece/Binary/original/header.png
 ||financial.kathimerini.gr/piraeus_banner.swf
 ||skai.gr/Themes/1/Default/Media/Skins/alpha_romeo_skin_2.png
