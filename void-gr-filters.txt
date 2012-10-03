@@ -53,6 +53,7 @@ scdn.gr/images/helmet/promo_material/*
 ||koutipandoras.gr/wp-content/uploads/2012/02/GKFX1_250x250.swf
 ||thepressproject.gr/ad/*
 ||dealin.gr/iframes/5/*
+||sport24.gr/genika/article1951216.ece/BINARY/original/mc_tab.png
 ant1online.gr/SiteCollectionImages/SiteImages/betonet.gif
 zougla.gr/news/data/upimages/image.php?image=ororotot9018231.jpg
 cosmopolitan.gr/images/vod_logo_100x70.jpg
