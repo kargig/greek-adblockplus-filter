@@ -673,6 +673,18 @@ newsit.gr###sponsor-link
 newsit.gr###right
 newsit.gr###left
 gazzetta.gr##A[href*="http://ff.connextra.com/"]
+in.gr###HomePageRightBanner3
+in.gr###RightBanner5
+in.gr###HeaderBanner
+in.gr###LeftBanner1
+in.gr###RightBanner1
+in.gr###middle_banner_1
+in.gr###middle_banner_2
+in.gr###LeftBanner3
+in.gr###LeftBanner2
+in.gr###RightBanner4
+in.gr###in-home-rel-banners
+in.gr###MiddleBanner1
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
