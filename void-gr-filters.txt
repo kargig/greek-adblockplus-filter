@@ -685,6 +685,8 @@ in.gr###LeftBanner2
 in.gr###RightBanner4
 in.gr###in-home-rel-banners
 in.gr###MiddleBanner1
+sport24.gr###editor_link[style*="background:transparent url(http://www.contra.gr/Columns/article"]
+contra.gr###editor_link[style*="background:transparent url(http://www.sport24.gr/incoming/article"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
