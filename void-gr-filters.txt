@@ -689,6 +689,7 @@ in.gr###MiddleBanner1
 sport24.gr###editor_link[style*="background:transparent url(http://www.contra.gr/Columns/article"]
 contra.gr###editor_link[style*="background:transparent url(http://www.sport24.gr/incoming/article"]
 gazzetta.gr##A[href*="http://adserving.unibet.com/"]
+kathimerini.gr##A[href*="http://adman.kathimerini.gr/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
