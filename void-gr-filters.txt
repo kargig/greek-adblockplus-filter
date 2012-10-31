@@ -428,6 +428,9 @@ ad.gr.doubleclick.net
 ||protagon.gr/resources/campaigns/*
 ||dealspro.gr/cart/random_ads/*
 ||sport103.gr/images/banners/*
+||thestival.gr/images/stories/banners/*
+||thestival.gr/images/stories/balatsinos.jpg
+||newsbomb.gr/media/com_skins/skins/24/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
