@@ -427,6 +427,7 @@ ad.gr.doubleclick.net
 ||tovima.gr/themes/1/Default/Media/home/pireos.jpg
 ||protagon.gr/resources/campaigns/*
 ||dealspro.gr/cart/random_ads/*
+||sport103.gr/images/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
