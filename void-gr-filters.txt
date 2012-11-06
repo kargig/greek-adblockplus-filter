@@ -431,6 +431,7 @@ ad.gr.doubleclick.net
 ||thestival.gr/images/stories/banners/*
 ||thestival.gr/images/stories/balatsinos.jpg
 ||newsbomb.gr/media/com_skins/skins/24/*
+||skai.gr/Themes/1/Default/Media/Skins/kri-kri*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
