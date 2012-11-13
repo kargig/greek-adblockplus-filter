@@ -433,6 +433,7 @@ ad.gr.doubleclick.net
 ||newsbomb.gr/media/com_skins/skins/24/*
 ||skai.gr/Themes/1/Default/Media/Skins/kri-kri*
 ||iefimerida.gr/sites/all/themes/base/images/*CHIVAS*
+||protothema.gr/files/1/2012/11/12/anytime*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
