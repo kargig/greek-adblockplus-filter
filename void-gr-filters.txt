@@ -435,6 +435,7 @@ ad.gr.doubleclick.net
 ||iefimerida.gr/sites/all/themes/base/images/*CHIVAS*
 ||protothema.gr/files/1/2012/11/12/anytime*
 ||comedylab.gr/ad/*
+||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
