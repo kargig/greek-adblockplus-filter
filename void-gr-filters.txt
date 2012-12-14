@@ -438,6 +438,7 @@ ad.gr.doubleclick.net
 ||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
 ||bold.adman.gr/*
 ||focuswebtv.gr/banners/*
+||iefimerida.gr/sites/all/themes/base/images/iefimerida_xmas_offer.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -704,6 +705,7 @@ kathimerini.gr##A[href*="http://adman.kathimerini.gr/"]
 gr##A[href*="http://bold.adman.gr/"]
 focuswebtv.gr###leftskin
 focuswebtv.gr###rightskin
+iefimerida.gr###full-width-ad
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
