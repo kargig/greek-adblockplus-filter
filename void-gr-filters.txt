@@ -706,6 +706,7 @@ gr##A[href*="http://bold.adman.gr/"]
 focuswebtv.gr###leftskin
 focuswebtv.gr###rightskin
 iefimerida.gr###full-width-ad
+iefimerida.gr###full-width-ad-inner
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
