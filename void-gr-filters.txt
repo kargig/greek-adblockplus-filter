@@ -137,8 +137,8 @@ webtv.antenna.gr/webtv/images/banners/*
 alfavita.gr/001.diafimisi.1.selidas/*
 contra.gr/grfx/menuIcons/lartigiano.jpg
 kathimerini.gr/webadmin/Glife/Chartis/*
-athinorama.gr/images/search_connxlogo_ros.gif
-athinorama.gr/adv/lmnts/*
+||athinorama.gr/images/search_connxlogo_ros.gif
+||athinorama.gr/adv/lmnts/*
 media.adslgr.com/www/images/934adc119cb74c815df8b1697cae4c98.png
 media.adslgr.com/www/images/1a31027deca376bfb2a140554a29a047.jpg
 ||media.adslgr.com/www/images/0a7c90d00978af65bd2089862535b7e6.jpg
@@ -440,6 +440,7 @@ ad.gr.doubleclick.net
 ||focuswebtv.gr/banners/*
 ||iefimerida.gr/sites/all/themes/base/images/iefimerida_xmas_offer.jpg
 ||efsyn.gr/ads/*
+||athinorama.gr/lmnts/skins/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
