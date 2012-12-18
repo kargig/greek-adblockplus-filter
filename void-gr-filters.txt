@@ -443,6 +443,7 @@ ad.gr.doubleclick.net
 ||athinorama.gr/lmnts/skins/*
 ||onsports.gr/media/com_skins/*
 ||newsbomb.gr/media/com_skins/*
+||newsbomb.gr/ads/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
