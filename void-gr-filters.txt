@@ -441,6 +441,8 @@ ad.gr.doubleclick.net
 ||iefimerida.gr/sites/all/themes/base/images/iefimerida_xmas_offer.jpg
 ||efsyn.gr/ads/*
 ||athinorama.gr/lmnts/skins/*
+||onsports.gr/media/com_skins/*
+||newsbomb.gr/media/com_skins/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
