@@ -444,6 +444,9 @@ ad.gr.doubleclick.net
 ||protothema.gr/Themes/1/Default/Media/opap-news.png
 ||protothema.gr/files/1/2012/11/07/opap_live_150x425.jpg
 ||protothema.gr/files/1/2012/12/24/AYTAKIshell.jpg
+||onsports.gr/media/com_skins/*
+||newsbomb.gr/media/com_skins/*
+||newsbomb.gr/ads/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
