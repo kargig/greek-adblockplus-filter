@@ -448,6 +448,7 @@ ad.gr.doubleclick.net
 ||newsbomb.gr/media/com_skins/*
 ||newsbomb.gr/ads/*
 ||media.adslgr.com/www/images/80ffb536c4617d7afe7c8be553b1c37d.jpg
+||media.adslgr.com/www/images/727fbd95261492dbd269bccbc7fffbb3.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -716,6 +717,7 @@ focuswebtv.gr###leftskin
 focuswebtv.gr###rightskin
 iefimerida.gr###full-width-ad
 iefimerida.gr###full-width-ad-inner
+adslgr.com###mainBanner
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
