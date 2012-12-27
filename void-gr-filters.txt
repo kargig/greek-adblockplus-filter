@@ -447,6 +447,7 @@ ad.gr.doubleclick.net
 ||onsports.gr/media/com_skins/*
 ||newsbomb.gr/media/com_skins/*
 ||newsbomb.gr/ads/*
+||media.adslgr.com/www/images/80ffb536c4617d7afe7c8be553b1c37d.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
