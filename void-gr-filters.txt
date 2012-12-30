@@ -719,6 +719,8 @@ iefimerida.gr###full-width-ad
 iefimerida.gr###full-width-ad-inner
 adslgr.com###mainBanner
 koutipandoras.gr##.top_ad_big
+imerisia.gr##.srs
+imerisia.gr##.sls
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
