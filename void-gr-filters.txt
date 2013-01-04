@@ -723,6 +723,7 @@ imerisia.gr##.srs
 imerisia.gr##.sls
 in.gr###RightBanner6
 koutipandoras.gr##.box_banner
+gazzetta.gr##A[href*="http://www.novibet.com/Handlers/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
