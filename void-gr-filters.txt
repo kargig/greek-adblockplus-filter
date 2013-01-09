@@ -450,6 +450,8 @@ ad.gr.doubleclick.net
 ||media.adslgr.com/www/images/80ffb536c4617d7afe7c8be553b1c37d.jpg
 ||media.adslgr.com/www/images/727fbd95261492dbd269bccbc7fffbb3.jpg
 ||newsbeast.gr/files/1/banners/animal/animal.jpg
+||prismanews.gr/images/banners/*
+||prismanewsmedia.gr/ads/foto/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -727,6 +729,7 @@ koutipandoras.gr##.box_banner
 gazzetta.gr##A[href*="http://www.novibet.com/Handlers/"]
 gazzetta.gr##A[href*="https://www.playbet.com/portal/"]
 newsbeast.gr##.topShare_textad
+prismanews.gr##.banneritem
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
