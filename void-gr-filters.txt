@@ -452,6 +452,7 @@ ad.gr.doubleclick.net
 ||newsbeast.gr/files/1/banners/animal/animal.jpg
 ||prismanews.gr/images/banners/*
 ||prismanewsmedia.gr/ads/foto/*
+||gazzetta.gr/sites/all/themes/basic/images/banners/PokerStar*.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -736,6 +737,7 @@ tovima.gr###BannerCategArticle300Right1
 tovima.gr###BannerCategArticle300Right2
 tovima.gr###BannerCategArticle300Right3
 tovima.gr###BannerCategArticle300Right4
+gazzetta.gr##A[href*="https://www.sportingbet.gr/paradise-poker/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
