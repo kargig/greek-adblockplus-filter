@@ -456,6 +456,8 @@ ad.gr.doubleclick.net
 ||zappit.gr/files/flash/banners/2012/02/laertis_banner.jpg
 ||enikos.gr/data/photos/94f9b972426971e8a322a305c9d6ffff.gif
 ||enikos.gr/data/photos/3ee2af82bde8163b23b1734cf6ebbed5.jpg
+||gossip-tv.gr/images/banner*
+||gossip-tv.gr/media/com_skins/skins/20/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -741,6 +743,7 @@ tovima.gr###BannerCategArticle300Right2
 tovima.gr###BannerCategArticle300Right3
 tovima.gr###BannerCategArticle300Right4
 gazzetta.gr##A[href*="http://www.sportingbet.gr/paradise-poker/"]
+gossip-tv.gr##.bottom-popout.is-open
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
