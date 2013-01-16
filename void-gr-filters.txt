@@ -737,7 +737,7 @@ tovima.gr###BannerCategArticle300Right1
 tovima.gr###BannerCategArticle300Right2
 tovima.gr###BannerCategArticle300Right3
 tovima.gr###BannerCategArticle300Right4
-gazzetta.gr##A[href*="https://www.sportingbet.gr/paradise-poker/"]
+gazzetta.gr##A[href*="http://www.sportingbet.gr/paradise-poker/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
