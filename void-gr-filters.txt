@@ -458,6 +458,7 @@ ad.gr.doubleclick.net
 ||enikos.gr/data/photos/3ee2af82bde8163b23b1734cf6ebbed5.jpg
 ||gossip-tv.gr/images/banner*
 ||gossip-tv.gr/media/com_skins/skins/20/*
+||ough.gr/uploads/skins/skin_ough_gapyear-01.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
