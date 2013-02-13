@@ -460,6 +460,7 @@ ad.gr.doubleclick.net
 ||gossip-tv.gr/media/com_skins/skins/20/*
 ||ough.gr/uploads/skins/skin_ough_gapyear-01.jpg
 ||media.mybet.com^
+||thestival.gr/images/stories/betnew.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
