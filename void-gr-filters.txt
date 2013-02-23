@@ -461,6 +461,7 @@ ad.gr.doubleclick.net
 ||ough.gr/uploads/skins/skin_ough_gapyear-01.jpg
 ||media.mybet.com^
 ||thestival.gr/images/stories/betnew.png
+||static.scar.gr/ads/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
