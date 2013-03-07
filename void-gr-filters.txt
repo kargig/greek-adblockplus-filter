@@ -463,6 +463,7 @@ ad.gr.doubleclick.net
 ||thestival.gr/images/stories/betnew.png
 ||static.scar.gr/ads/*
 ||seleo.gr/images/stories/diafimisi/*
+||seleo.gr/images/stories/mast/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
