@@ -462,6 +462,7 @@ ad.gr.doubleclick.net
 ||media.mybet.com^
 ||thestival.gr/images/stories/betnew.png
 ||static.scar.gr/ads/*
+||seleo.gr/images/stories/diafimisi/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
