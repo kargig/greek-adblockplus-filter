@@ -465,6 +465,7 @@ ad.gr.doubleclick.net
 ||athensvoice.gr/files/honda/*
 ||seleo.gr/images/stories/diafimisi/*
 ||seleo.gr/images/stories/mast/*
+||in.gr/Themes/1/Default/Media/imommy.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
