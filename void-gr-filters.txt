@@ -8,7 +8,7 @@
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
 !
 ! Please report unblocked ads or mistakenly blocked content:
-! Blog: http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+! Blog: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ||parallaximag.gr/sites/default/files/pictures/20120919-emporiki_2.swf
 ||parallaximag.gr/sites/default/files/pictures/goethe_banner3.swf
 ||skai.gr/Themes/1/Default/Media/Skins/samsung*
