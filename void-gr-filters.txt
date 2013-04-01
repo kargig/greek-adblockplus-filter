@@ -467,6 +467,7 @@ ad.gr.doubleclick.net
 ||seleo.gr/images/stories/mast/*
 ||in.gr/Themes/1/Default/Media/imommy.png
 ||gazzetta.gr/sites/default/files/Anytime*.jpg
+||athensvoice.gr/files/tezenis/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
