@@ -468,6 +468,7 @@ ad.gr.doubleclick.net
 ||in.gr/Themes/1/Default/Media/imommy.png
 ||gazzetta.gr/sites/default/files/Anytime*.jpg
 ||athensvoice.gr/files/tezenis/*
+||athensvoice.gr/files/instagreece/cosmote_skin.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
