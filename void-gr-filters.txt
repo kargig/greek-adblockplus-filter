@@ -470,6 +470,8 @@ ad.gr.doubleclick.net
 ||athensvoice.gr/files/tezenis/*
 ||athensvoice.gr/files/instagreece/cosmote_skin.jpg
 ||photo.kathimerini.gr/files/ul/kath22/webextras/2013/04-APR/carrefourskin1*
+||medlook.net/banners/*
+||medlook.net.cy/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
