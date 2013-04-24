@@ -760,6 +760,8 @@ gazzetta.gr##A[href*="http://www.sportingbet.gr/paradise-poker/"]
 gossip-tv.gr##.bottom-popout.is-open
 onsports.gr##.bottom-popout.is-open
 gazzetta.gr##A[href*="http://ads.meridianbet.gr/"]
+gazzetta.gr##A[href*="http://media.mybet.com/"]
+gazzetta.gr##A[href*="http://Για"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
