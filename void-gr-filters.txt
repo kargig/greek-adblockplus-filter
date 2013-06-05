@@ -472,6 +472,7 @@ ad.gr.doubleclick.net
 ||photo.kathimerini.gr/files/ul/kath22/webextras/2013/04-APR/carrefourskin1*
 ||medlook.net/banners/*
 ||medlook.net.cy/banners/*
+||vidata.gr/files/plugins/longtailvideo/v5a/r6/vidads.swf
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
