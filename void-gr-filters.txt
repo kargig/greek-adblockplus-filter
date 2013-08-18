@@ -770,6 +770,7 @@ gazzetta.gr##A[href*="http://Για"]
 gazzetta.gr###block-wblocks-wblocks_promoted_companies
 athinorama.gr##.disaronnobox
 pitsirikos.net###text-19
+newsbeast.gr##A[href*="http://bs.serving-sys.com/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
