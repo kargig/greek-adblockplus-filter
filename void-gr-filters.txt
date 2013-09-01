@@ -478,6 +478,7 @@ ad.gr.doubleclick.net
 ||athensvoice.gr/files/samsung/*
 ||enikos.gr/data/photos/e9c55223303e2a7a5555c07544aa7b05.gif
 ||paparazzigr.tv/diafimistika/*
+||thestival.gr/images/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
