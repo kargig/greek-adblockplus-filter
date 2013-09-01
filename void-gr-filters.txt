@@ -774,6 +774,7 @@ athinorama.gr##.disaronnobox
 pitsirikos.net###text-19
 newsbeast.gr##A[href*="http://bs.serving-sys.com/"]
 newsit.gr##A[href*="http://194.219.47.98/link/"]
+newsbeast.gr##.icon-popular.nespressoAdd
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
