@@ -480,6 +480,7 @@ ad.gr.doubleclick.net
 ||paparazzigr.tv/diafimistika/*
 ||thestival.gr/images/banners/*
 ||commission.gr/on/*
+||sport-fm.gr/resrc/campaigns_v2/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -777,6 +778,7 @@ newsbeast.gr##A[href*="http://bs.serving-sys.com/"]
 newsit.gr##A[href*="http://194.219.47.98/link/"]
 newsbeast.gr##.icon-popular.nespressoAdd
 subs4free.com###ad-box-right
+sport-fm.gr###backgroundlink
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
