@@ -481,6 +481,7 @@ ad.gr.doubleclick.net
 ||thestival.gr/images/banners/*
 ||commission.gr/on/*
 ||sport-fm.gr/resrc/campaigns_v2/*
+||protothema.gr/files/1/2013/08/09/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
