@@ -780,6 +780,8 @@ newsit.gr##A[href*="http://194.219.47.98/link/"]
 newsbeast.gr##.icon-popular.nespressoAdd
 subs4free.com###ad-box-right
 sport-fm.gr###backgroundlink
+inthevip.gr##.left
+inthevip.gr##.right
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
