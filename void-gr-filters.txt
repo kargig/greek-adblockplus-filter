@@ -783,6 +783,7 @@ subs4free.com###ad-box-right
 sport-fm.gr###backgroundlink
 inthevip.gr##.left
 inthevip.gr##.right
+alterthess.gr###block-views-ads-sidebar-block-block
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
