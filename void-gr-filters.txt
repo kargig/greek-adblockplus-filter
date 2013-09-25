@@ -485,6 +485,7 @@ ad.gr.doubleclick.net
 ||techblog.gr/adpond/skins/sep-2013/nokia-1020-skin.jpg
 ||katimagiko.gr/sites/all/themes/thrileole/images/*skin*
 ||roumlouki.gr/images/roumlouki_banners/*
+||roumlouki.gr/images/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
