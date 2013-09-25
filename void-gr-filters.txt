@@ -486,6 +486,7 @@ ad.gr.doubleclick.net
 ||katimagiko.gr/sites/all/themes/thrileole/images/*skin*
 ||roumlouki.gr/images/roumlouki_banners/*
 ||roumlouki.gr/images/banners/*
+||koutipandoras.gr/wp-content/uploads/2013/07/Mikel1.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
