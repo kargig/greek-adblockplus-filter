@@ -488,6 +488,7 @@ ad.gr.doubleclick.net
 ||roumlouki.gr/images/banners/*
 ||koutipandoras.gr/wp-content/uploads/2013/07/Mikel1.jpg
 ||yupiii.gr/banners/bg/3yupiii.jpg
+||media.adslgr.com/www/images/e3026593eee92619a864ff0841906cd0.gif
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -792,6 +793,7 @@ alterthess.gr###block-views-ads-sidebar-block-block
 katimagiko.gr##.linkRightCntr
 katimagiko.gr##.linkLeftCntr
 livemovies.gr###block-block-32
+adslgr.com##.LeftMenuAd
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
