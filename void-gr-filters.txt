@@ -787,6 +787,7 @@ inthevip.gr##.right
 alterthess.gr###block-views-ads-sidebar-block-block
 katimagiko.gr##.linkRightCntr
 katimagiko.gr##.linkLeftCntr
+livemovies.gr###block-block-32
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
