@@ -483,6 +483,7 @@ ad.gr.doubleclick.net
 ||sport-fm.gr/resrc/campaigns_v2/*
 ||protothema.gr/files/1/2013/08/09/*
 ||techblog.gr/adpond/skins/sep-2013/nokia-1020-skin.jpg
+||katimagiko.gr/sites/all/themes/thrileole/images/*skin*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -784,6 +785,8 @@ sport-fm.gr###backgroundlink
 inthevip.gr##.left
 inthevip.gr##.right
 alterthess.gr###block-views-ads-sidebar-block-block
+katimagiko.gr##.linkRightCntr
+katimagiko.gr##.linkLeftCntr
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
