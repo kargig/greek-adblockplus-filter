@@ -483,6 +483,12 @@ ad.gr.doubleclick.net
 ||sport-fm.gr/resrc/campaigns_v2/*
 ||protothema.gr/files/1/2013/08/09/*
 ||techblog.gr/adpond/skins/sep-2013/nokia-1020-skin.jpg
+||katimagiko.gr/sites/all/themes/thrileole/images/*skin*
+||roumlouki.gr/images/roumlouki_banners/*
+||roumlouki.gr/images/banners/*
+||koutipandoras.gr/wp-content/uploads/2013/07/Mikel1.jpg
+||yupiii.gr/banners/bg/3yupiii.jpg
+||media.adslgr.com/www/images/e3026593eee92619a864ff0841906cd0.gif
 ||flix.gr/skins/35-fox/*
 !Element-Hiding Rules
 antenna.gr###afdiv
@@ -785,6 +791,10 @@ sport-fm.gr###backgroundlink
 inthevip.gr##.left
 inthevip.gr##.right
 alterthess.gr###block-views-ads-sidebar-block-block
+katimagiko.gr##.linkRightCntr
+katimagiko.gr##.linkLeftCntr
+livemovies.gr###block-block-32
+adslgr.com##.LeftMenuAd
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
