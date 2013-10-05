@@ -483,6 +483,7 @@ ad.gr.doubleclick.net
 ||sport-fm.gr/resrc/campaigns_v2/*
 ||protothema.gr/files/1/2013/08/09/*
 ||techblog.gr/adpond/skins/sep-2013/nokia-1020-skin.jpg
+||flix.gr/skins/35-fox/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
