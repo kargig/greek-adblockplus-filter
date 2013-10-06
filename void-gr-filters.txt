@@ -798,6 +798,7 @@ livemovies.gr###block-block-32
 adslgr.com##.LeftMenuAd
 ethnos.gr##.srs
 ethnos.gr##.sls
+ethnos.gr##.deal
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
