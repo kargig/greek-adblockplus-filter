@@ -489,8 +489,8 @@ ad.gr.doubleclick.net
 ||koutipandoras.gr/wp-content/uploads/2013/07/Mikel1.jpg
 ||yupiii.gr/banners/bg/3yupiii.jpg
 ||media.adslgr.com/www/images/e3026593eee92619a864ff0841906cd0.gif
-||flix.gr/skins/35-fox/*
 ||egob2.feed.gr/filesystem/images/20130927/low/*
+||flix.gr/skins/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -799,6 +799,7 @@ adslgr.com##.LeftMenuAd
 ethnos.gr##.srs
 ethnos.gr##.sls
 ethnos.gr##.deal
+flix.gr##A[href*="http://ads.radial.gr/delivery/"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
