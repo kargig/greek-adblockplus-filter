@@ -800,6 +800,8 @@ ethnos.gr##.srs
 ethnos.gr##.sls
 ethnos.gr##.deal
 flix.gr##A[href*="http://ads.radial.gr/delivery/"]
+flix.gr##.banner.medrect
+flix.gr##.banner.minirect
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
