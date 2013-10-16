@@ -1,11 +1,13 @@
 [Adblock Plus 1.1]
 ! Greek AdBlock Plus List
-! Last Modified: Tue Sep 25 18:02:58 EEST 2012
+! Last Modified: Wed Oct 16 19:07:47 EEST 2013
 ! Expires: 2 days
 !
 ! filter by kargig[at]void[dot]gr
 ! ad blocking filter for greek sites
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
+! 
+! Filter url: https://www.void.gr/kargig/void-gr-filters.txt
 !
 ! Please report unblocked ads or mistakenly blocked content:
 ! Blog: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
