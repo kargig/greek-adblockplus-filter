@@ -494,6 +494,7 @@ ad.gr.doubleclick.net
 ||egob2.feed.gr/filesystem/images/20130927/low/*
 ||flix.gr/skins/*
 ||protothema.gr/files/1/*/Skin*
+||ishow.gr/images/*Skin.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
