@@ -497,6 +497,7 @@ ad.gr.doubleclick.net
 ||ishow.gr/images/*Skin.jpg
 ||greek-movies.com/icon/banner*
 ||fvcreatives.s3.amazonaws.com/Perrier/20131115/banners/img/*
+||entertv.gr/sites/default/files/entertv_skin*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -811,6 +812,8 @@ flix.gr##.banner.minirect
 newsbomb.gr##.skin-link
 newsbomb.gr###textlinks
 news247.gr###editor_link
+entertv.gr##.linkRight
+entertv.gr##.linkLeft
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
