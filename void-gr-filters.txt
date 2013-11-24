@@ -496,6 +496,7 @@ ad.gr.doubleclick.net
 ||protothema.gr/files/1/*/Skin*
 ||ishow.gr/images/*Skin.jpg
 ||greek-movies.com/icon/banner*
+||fvcreatives.s3.amazonaws.com/Perrier/20131115/banners/img/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
