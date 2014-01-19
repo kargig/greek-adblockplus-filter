@@ -818,6 +818,11 @@ entertv.gr##.linkRight
 entertv.gr##.linkLeft
 efsyn.gr##.attachment-full.aligncenter
 vimaonline.gr###ad_13_left_1
+nooz.gr###ctl00_articleLeftColumn_ctl04_adRotatorUpdatePanel
+nooz.gr###ctl00_articleLeftColumn_ctl05_adRotatorUpdatePanel
+nooz.gr###ctl00_articleLeftColumn_ctl06_adRotatorUpdatePanel
+nooz.gr###ctl00_topBannersRight_ctl00_adRotatorUpdatePanel
+nooz.gr##.top_banners_outer
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
