@@ -502,6 +502,12 @@ ad.gr.doubleclick.net
 ||sofokleousin.gr/files/banners/*.jpg
 ||queen.gr/media/com_skins/skins/*
 ||gossip-tv.gr/media/com_skins/skins/*
+||tlife.gr/flash/banners/*
+||imerisia.gr/images/top_stories_xorhgia2.gif
+||missbloom.gr/media/vidspics/711891282-1990488458-miss.jpg
+||missbloom.gr/media/vidspics/2141663261-OTEHOME.jpg
+||missbloom.gr/media/vidspics/*-skin.jpg
+||yupiii.gr/banners/bg/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -827,6 +833,10 @@ nooz.gr###ctl00_topBannersRight_ctl00_adRotatorUpdatePanel
 nooz.gr##.top_banners_outer
 meteo.gr##.newsbeast
 gazzetta.gr##A[href*="http://sportingbet.gr/"]
+newsbeast.gr##.menuAdd
+newsbeast.gr##.txtLinks
+oroskopos.gr###banners
+oroskopos.gr##.banners_mid_2
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
