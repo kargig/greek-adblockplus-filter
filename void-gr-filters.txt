@@ -500,6 +500,7 @@ ad.gr.doubleclick.net
 ||entertv.gr/sites/default/files/entertv_skin*
 ||efsyn.gr/wp-content/uploads/2013/10/banner*
 ||sofokleousin.gr/files/banners/*.jpg
+||queen.gr/media/com_skins/skins/217/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
