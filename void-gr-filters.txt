@@ -511,6 +511,7 @@ ad.gr.doubleclick.net
 ||skai.gr/wp-content/themes/vantage/images/*skin*
 ||postin.gr/images/banners/*
 ||egnatiapost.gr/images/banners/*
+||enikos.gr/banners/bg/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
