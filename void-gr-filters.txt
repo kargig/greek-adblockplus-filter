@@ -513,6 +513,7 @@ ad.gr.doubleclick.net
 ||egnatiapost.gr/images/banners/*
 ||enikos.gr/banners/bg/*
 ||thepressproject.gr/files/asi.jpg
+||thepressproject.gr/files/ekloges-np-300.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
