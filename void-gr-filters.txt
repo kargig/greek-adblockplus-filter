@@ -843,6 +843,7 @@ newsbeast.gr##.menuAdd
 newsbeast.gr##.txtLinks
 oroskopos.gr###banners
 oroskopos.gr##.banners_mid_2
+news247.gr##.seatimage
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
