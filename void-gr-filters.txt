@@ -847,6 +847,7 @@ oroskopos.gr###banners
 oroskopos.gr##.banners_mid_2
 news247.gr##.seatimage
 thepressproject.gr###kalogritsas300
+news247.gr###link-deliveras
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
