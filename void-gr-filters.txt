@@ -516,6 +516,8 @@ ad.gr.doubleclick.net
 ||thepressproject.gr/files/ekloges-np-300.jpg
 ||thepressproject.gr/kalogritsas300.jpg
 ||contra.gr/genika/article2841960.ece/BINARY/original/contra-editors-skin.jpg
+||contra.gr/genika/article2820167.ece/BINARY/original/bc_background_alt.jpg
+||contra.gr/incoming/article2840343.ece/BINARY/original/adidas_new_players.js
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
