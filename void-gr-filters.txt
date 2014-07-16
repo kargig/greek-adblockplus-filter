@@ -878,3 +878,4 @@ koutipandoras.gr##.banner
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
 ~aggeliestanea.gr##.adResult
+www.taxheaven.gr/public/banners/*
