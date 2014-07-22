@@ -519,6 +519,7 @@ ad.gr.doubleclick.net
 ||contra.gr/*/BINARY/original/bc_background_alt.jpg
 ||contra.gr/*/BINARY/original/adidas*.js
 ||koutipandoras.gr/sites/default/files/*banner*.swf
+||taxheaven.gr/public/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -878,4 +879,4 @@ koutipandoras.gr##.banner
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
 ~aggeliestanea.gr##.adResult
-taxheaven.gr/public/banners/*
+
