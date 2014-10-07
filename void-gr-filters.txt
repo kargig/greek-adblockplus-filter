@@ -527,6 +527,9 @@ ad.gr.doubleclick.net
 ||contra.gr/*/BINARY/original/adidas*.js
 ||koutipandoras.gr/sites/default/files/*banner*.swf
 ||enikos.gr/data/photos/e28a0cdc2d54f49d2a697d9fe83066d7.gif
+||taxheaven.gr/public/banners/*
+||athensmagazine.gr/files/banners/*
+||voria.gr/filestore/banners/*
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
