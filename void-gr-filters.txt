@@ -872,6 +872,8 @@ in.gr##.stamps
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
 sports.in.gr###middlebanner3
+in.gr###RightBanner6
+in.gr###RightBanner8
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
