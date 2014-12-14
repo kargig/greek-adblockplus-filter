@@ -878,6 +878,7 @@ sports.in.gr###RightBanner7
 sports.in.gr###middlebanner3
 in.gr###RightBanner6
 in.gr###RightBanner8
+gazzetta.gr###block-wblocks-wblocks_companies
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
