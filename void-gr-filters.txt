@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2015060701
+! Version: 2015062900
 ! Expires: 2 days
 ! Homepage: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -404,6 +404,8 @@ ad.gr.doubleclick.net
 ||www.triakilakodika.gr/images/teamworkpm650.png
 ||contra.gr/multimedia/article3508528.ece/BINARY/original/stoiximan.png
 ||contra.gr/multimedia/article3498428.ece/binary/original/contra-articlepng.png 
+||enikos.gr/dyn/ice.js
+||smart-ads.gr/adtextlinks
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
