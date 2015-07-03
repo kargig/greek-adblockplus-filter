@@ -754,6 +754,7 @@ in.gr###RightBanner6
 in.gr###RightBanner8
 gazzetta.gr###block-wblocks-wblocks_companies
 techgear.gr###fasa
+skai.gr##.skin.news[href="https://www.facebook.com/NAIstinEllada\a "]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
