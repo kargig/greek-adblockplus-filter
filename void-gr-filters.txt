@@ -407,6 +407,7 @@ ad.gr.doubleclick.net
 ||enikos.gr/dyn/ice.js
 ||smart-ads.gr/adtextlinks
 ||luben.tv/wp-content/uploads/2015/07/CORONA-SUNSETS_A-1.jpg
+||contra.gr/multimedia/article3498429.ece/BINARY/original/sport24HP-left.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
