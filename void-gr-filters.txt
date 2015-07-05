@@ -408,6 +408,8 @@ ad.gr.doubleclick.net
 ||smart-ads.gr/adtextlinks
 ||luben.tv/wp-content/uploads/2015/07/CORONA-SUNSETS_A-1.jpg
 ||contra.gr/multimedia/article3498429.ece/BINARY/original/sport24HP-left.png
+||images.watchit.gr/?w=475&h=72&src=http://www.newsit.gr/flash/banners/2015/06/CareMarket_banner_newsit_29_6.jpg
+||newsit.gr/flash/banners/2015/06/CareMarket_banner300x250_29_6.gif
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
