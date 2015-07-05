@@ -410,6 +410,7 @@ ad.gr.doubleclick.net
 ||contra.gr/multimedia/article3498429.ece/BINARY/original/sport24HP-left.png
 ||images.watchit.gr/?w=475&h=72&src=http://www.newsit.gr/flash/banners/2015/06/CareMarket_banner_newsit_29_6.jpg
 ||newsit.gr/flash/banners/2015/06/CareMarket_banner300x250_29_6.gif
+||188.138.57.163/fly/front_gui/live_banners/newsit/imgs/newsit-deal-1.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -758,6 +759,7 @@ in.gr###RightBanner8
 gazzetta.gr###block-wblocks-wblocks_companies
 techgear.gr###fasa
 skai.gr##.skin.news[href="https://www.facebook.com/NAIstinEllada\a "]
+tlife.gr###sma-top-box > .boxHead_TopBar
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
