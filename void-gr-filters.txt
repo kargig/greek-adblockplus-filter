@@ -411,6 +411,10 @@ ad.gr.doubleclick.net
 ||images.watchit.gr/?w=475&h=72&src=http://www.newsit.gr/flash/banners/2015/06/CareMarket_banner_newsit_29_6.jpg
 ||newsit.gr/flash/banners/2015/06/CareMarket_banner300x250_29_6.gif
 ||188.138.57.163/fly/front_gui/live_banners/newsit/imgs/newsit-deal-1.png
+||secnews.gr/wp-content/uploads/2015/05/cyberkid1.jpg
+||secnews.gr/wp-content/uploads/2014/11/isoqar.png
+||secnews.gr/wp-content/uploads/2014/11/DigitalBrains.png
+||secnews.gr/wp-content/uploads/2015/05/papei1.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
