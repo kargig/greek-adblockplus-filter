@@ -415,6 +415,7 @@ ad.gr.doubleclick.net
 ||secnews.gr/wp-content/uploads/2014/11/isoqar.png
 ||secnews.gr/wp-content/uploads/2014/11/DigitalBrains.png
 ||secnews.gr/wp-content/uploads/2015/05/papei1.png
+||secnews.gr/wp-content/uploads/2015/05/host1plusbanner2.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
