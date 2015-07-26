@@ -780,7 +780,6 @@ voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line >
 @@sport-fm.gr/resrc/images/layout/campaigns/mb2010/bg-bck-block.jpg
 @@sport-fm.gr/resrc/images/layout/campaigns/mb2010/bg-fp-block__v3.jpg
 @@||megatv.com/*/XML/jw/adverts.asp?*
-@@||ads.patris.gr/_banners/onpaper.gif
 @@|http://adman.in.gr/gbanner/?*|1195/300x250
 @@||contra.gr/XML/sponsors/pokergr/ilika/
 @@||athinorama.gr/adv/lmnts/stegi/*.swf
@@ -790,6 +789,7 @@ voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line >
 @@||skaihd-f.akamaihd.net/z/advert/*
 @@||xe.gr/property/recent_ads?*
 @@||focuswebtv.gr/banners/ekpompes.swf?*
+@@||ads.patris.gr/_banners/1421748421.gif
 ! Exceptions to element hiding
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
