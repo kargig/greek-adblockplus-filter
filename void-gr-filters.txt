@@ -420,6 +420,7 @@ ad.gr.doubleclick.net
 ||unboxholics.com/images/banners/inSpot/INSPOT_BANNER.jpg
 ||unboxholics.com/images/banners/eGalaxy/e-galaxyNew.jpg
 ||www.sportkit.gr/Widget.aspx*
+||luben.tv/wp-content/uploads/2015/09/unnamed.png
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
