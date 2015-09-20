@@ -390,6 +390,8 @@ ad.gr.doubleclick.net
 ||thepressproject.gr/files/asi.jpg
 ||thepressproject.gr/files/ekloges-np-300.jpg
 ||thepressproject.gr/kalogritsas300.jpg
+||thepressproject.gr/eacount.gif
+||thepressproject.gr/imerodromos.gif
 ||contra.gr/genika/article2841960.ece/BINARY/original/contra-editors-skin.jpg
 ||contra.gr/*/BINARY/original/adidas*.js
 ||koutipandoras.gr/sites/default/files/*banner*.swf
