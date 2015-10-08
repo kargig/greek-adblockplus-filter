@@ -36,6 +36,7 @@ scdn.gr/images/helmet/promo_material/*
 ||thepressproject.gr/ad/*
 ||dealin.gr/iframes/5/*
 ||sport24.gr/genika/article1951216.ece/BINARY/original/mc_tab.png
+||sport24.gr/multimedia/article3679759.ece/BINARY/original/stoiximan.png
 ||cheapis.gr/widget/*
 ||widgets.nova.gr/nownext_compact/el/*
 ||airfasttickets.gr/affiliate/*
