@@ -781,6 +781,8 @@ voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line >
 www.skroutz.gr###featurette
 contra.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
 newsbomb.gr###json-textlinks
+alfavita.gr###arthroad
+alfavita.gr###arthroad2
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
