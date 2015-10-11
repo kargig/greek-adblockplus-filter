@@ -427,6 +427,7 @@ ad.gr.doubleclick.net
 ||contra.gr/multimedia/article3679751.ece/BINARY/original/contra-fasa-hp.png
 ||dikaiologitika.gr/images/banners/defence1.gif
 ||defencenet.gr/defence/images/aroma300x250_black.jpg
+||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
