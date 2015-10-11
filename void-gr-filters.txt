@@ -428,6 +428,10 @@ ad.gr.doubleclick.net
 ||dikaiologitika.gr/images/banners/defence1.gif
 ||defencenet.gr/defence/images/aroma300x250_black.jpg
 ||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
+||makeleio.gr/wp-content/uploads/2015/09/HyalurOn-250X250-Zampidis-2.jpg
+||makeleio.gr/wp-content/uploads/2014/11/Klamin-300X250.jpg
+||makeleio.gr/wp-content/uploads/2013/10/iatros4u.png
+||makeleio.gr/wp-content/uploads/2014/11/NETRA_bannernew.jpg
 !Element-Hiding Rules
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -783,6 +787,7 @@ contra.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
 newsbomb.gr###json-textlinks
 alfavita.gr###arthroad
 alfavita.gr###arthroad2
+makeleio.gr###text-88 > .textwidget
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
