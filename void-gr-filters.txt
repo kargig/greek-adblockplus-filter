@@ -104,7 +104,8 @@ stercinemas.gr/SterCinemas/SterImagesLive/Banners/Right%20Banners/emporiki*
 stercinemas.gr/SterCinemas/SterImagesLive/NESCAFE*
 villagecinemas.gr/media/Banners/*
 webtv.antenna.gr/webtv/images/banners/*
-alfavita.gr/001.diafimisi.1.selidas/*
+||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
+||alfavita.gr/sites/default/files/efsyn_4.png
 kathimerini.gr/webadmin/Glife/Chartis/*
 ||athinorama.gr/adv/lmnts/*
 media.adslgr.com/www/images/934adc119cb74c815df8b1697cae4c98.png
@@ -427,7 +428,6 @@ ad.gr.doubleclick.net
 ||contra.gr/multimedia/article3679751.ece/BINARY/original/contra-fasa-hp.png
 ||dikaiologitika.gr/images/banners/defence1.gif
 ||defencenet.gr/defence/images/aroma300x250_black.jpg
-||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
 ||makeleio.gr/wp-content/uploads/2015/09/HyalurOn-250X250-Zampidis-2.jpg
 ||makeleio.gr/wp-content/uploads/2014/11/Klamin-300X250.jpg
 ||makeleio.gr/wp-content/uploads/2013/10/iatros4u.png
@@ -496,7 +496,6 @@ in.gr##DIV[style="width: 150px; height: 100px; margin-top: 5px; margin-bottom: 5
 sport-fm.gr##DIV.banner
 gamato.info##IMG[src="images/728_generic_betnow.gif"]
 oddbanner.bet-at-home.com##TABLE#bannerLandscape
-alfavita.gr##SPAN.style5
 contra.gr##DIV#bfair
 cosmo.gr##A.sponsLink
 ethnos.gr##DIV#promotext
@@ -785,8 +784,6 @@ voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line >
 www.skroutz.gr###featurette
 contra.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
 newsbomb.gr###json-textlinks
-alfavita.gr###arthroad
-alfavita.gr###arthroad2
 makeleio.gr###text-88 > .textwidget
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
