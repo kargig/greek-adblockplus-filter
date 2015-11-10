@@ -433,6 +433,7 @@ ad.gr.doubleclick.net
 ||makeleio.gr/wp-content/uploads/2013/10/iatros4u.png
 ||makeleio.gr/wp-content/uploads/2014/11/NETRA_bannernew.jpg
 !Element-Hiding Rules
+www.insomnia.gr###ipbwrapper > .bgad[href="http://www.e-shop.gr/ypologistes-trofodotika-psu-seasonic-list?table=PER&category=%D4%D1%CF%D6%CF%C4%CF%D4%C9%CA%CF&filter-2891=1&utm_source=insomnia.gr&utm_medium=otherads&utm_content=skin&utm_campaign=seasonic-insomnia"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
