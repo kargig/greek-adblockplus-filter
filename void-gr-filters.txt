@@ -792,6 +792,7 @@ newsbomb.gr###json-textlinks
 alfavita.gr###arthroad
 alfavita.gr###arthroad2
 makeleio.gr###text-88 > .textwidget
+insomnia.gr###ipbwrapper > .bgad[href="http://www.e-shop.gr/ypologistes-trofodotika-psu-seasonic-list?table=PER&category=%D4%D1%CF%D6%CF%C4%CF%D4%C9%CA%CF&filter-2891=1&utm_source=insomnia.gr&utm_medium=otherads&utm_content=skin&utm_campaign=seasonic-insomnia"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
