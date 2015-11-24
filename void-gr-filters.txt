@@ -436,6 +436,8 @@ ad.gr.doubleclick.net
 ||cdn.cnngreece.gr/templates/kgt_cnn/images/sponsors/videobox_1800x900.png
 ||sportkit.gr/SportKitWidget.aspx
 ||techgear.gr/wp-content/themes/tg3/images/polytope_rotator.gif
+||voicenews.gr/images/dimitra/banner_diafimisis.jpg
+||voicenews.gr/images/banners/voicenews_exnethellas_vertical_310x310.jpg
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
