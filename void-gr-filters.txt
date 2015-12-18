@@ -661,7 +661,6 @@ sport24.gr##div.ad
 koutipandoras.gr##.alignleft.size-full.wp-image-16703
 gazzetta.gr##A[href*="http://adfarm.mediaplex.com/"]
 skroutz.gr##.s_call_to_action
-skroutz.gr##.full
 skai.gr##DIV[id="sony-internet-tv-holder"]
 skai.gr##.banner
 news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.jpg) no-repeat left;  text-align:center;background-color: #F3F3F3;border-bottom:1px solid #E6E6E6;padding:4px 0px;"]
