@@ -609,6 +609,7 @@ sport-fm.gr##A[href*="http://www.e-germanos.gr"]
 news.in.gr##DIV[style="background: url(\"Themes/1/Default/Media/image-ads-sponsor.jpg\") no-repeat scroll left center rgb(243, 243, 243); text-align: center; border-bottom: 1px solid rgb(230, 230, 230); padding: 4px 0px;"]
 elektronikosanagnostis.blogspot.com###crosscol-overflow
 cretalive.gr###sponsors-mainmodule
+cretalive.gr###sma-banner-wide
 in.gr###RightBanner2
 milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
 milaraki.com##A[href="http://www.verizoniphone4accessories.com/"]
