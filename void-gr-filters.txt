@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2015062900
+! Version: 2016012300
 ! Expires: 2 days
 ! Homepage: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -408,7 +408,6 @@ ad.gr.doubleclick.net
 ||www.triakilakodika.gr/images/teamworkpm650.png
 ||contra.gr/multimedia/article3508528.ece/BINARY/original/stoiximan.png
 ||contra.gr/multimedia/article3498428.ece/binary/original/contra-articlepng.png 
-||enikos.gr/dyn/ice.js
 ||smart-ads.gr/adtextlinks
 ||luben.tv/wp-content/uploads/2015/07/CORONA-SUNSETS_A-1.jpg
 ||contra.gr/multimedia/article3498429.ece/BINARY/original/sport24HP-left.png
@@ -432,7 +431,23 @@ ad.gr.doubleclick.net
 ||makeleio.gr/wp-content/uploads/2014/11/Klamin-300X250.jpg
 ||makeleio.gr/wp-content/uploads/2013/10/iatros4u.png
 ||makeleio.gr/wp-content/uploads/2014/11/NETRA_bannernew.jpg
+||cdn.cnngreece.gr/media/com_news/ads/4/skin_new_cosmote_2.jpg
+||cdn.cnngreece.gr/templates/kgt_cnn/images/sponsors/videobox_1800x900.png
+||sportkit.gr/SportKitWidget.aspx
+||techgear.gr/wp-content/themes/tg3/images/polytope_rotator.gif
+||voicenews.gr/images/dimitra/banner_diafimisis.jpg
+||voicenews.gr/images/banners/voicenews_exnethellas_vertical_310x310.jpg
+||koutipandoras.gr/skins/Koutipandoras.gr_Skin.jpg
+||techgear.gr/wp-content/themes/tg3/images/dressme/plus3.jpg
+||parallaximag.gr/wp-content/uploads/bebarkitcen.jpg
+||thepressproject.gr/ia-tpp.gif
+||www.anew.gr/admin/baners/*
+||flix.gr/static/skins/*
+||techgear.gr/wp-content/themes/tg3/images/dressme/electroholic.jpg
+||luben.tv/wp-content/uploads/2016/01/luben-skin-stoli-2-x480x780-new2.png
+||contra.gr/multimedia/article3679751.ece/BINARY/original/contra-fasa-hp.png
 !Element-Hiding Rules
+www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 antenna.gr###afdiv
 sportdog.gr###block-views-promoted_companies-block_1
@@ -594,6 +609,7 @@ sport-fm.gr##A[href*="http://www.e-germanos.gr"]
 news.in.gr##DIV[style="background: url(\"Themes/1/Default/Media/image-ads-sponsor.jpg\") no-repeat scroll left center rgb(243, 243, 243); text-align: center; border-bottom: 1px solid rgb(230, 230, 230); padding: 4px 0px;"]
 elektronikosanagnostis.blogspot.com###crosscol-overflow
 cretalive.gr###sponsors-mainmodule
+cretalive.gr###sma-banner-wide
 in.gr###RightBanner2
 milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
 milaraki.com##A[href="http://www.verizoniphone4accessories.com/"]
@@ -649,7 +665,6 @@ sport24.gr##div.ad
 koutipandoras.gr##.alignleft.size-full.wp-image-16703
 gazzetta.gr##A[href*="http://adfarm.mediaplex.com/"]
 skroutz.gr##.s_call_to_action
-skroutz.gr##.full
 skai.gr##DIV[id="sony-internet-tv-holder"]
 skai.gr##.banner
 news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.jpg) no-repeat left;  text-align:center;background-color: #F3F3F3;border-bottom:1px solid #E6E6E6;padding:4px 0px;"]
@@ -786,6 +801,11 @@ www.skroutz.gr###featurette
 contra.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
 newsbomb.gr###json-textlinks
 makeleio.gr###text-88 > .textwidget
+insomnia.gr###ipbwrapper > .bgad[href="http://www.e-shop.gr/ypologistes-trofodotika-psu-seasonic-list?table=PER&category=%D4%D1%CF%D6%CF%C4%CF%D4%C9%CA%CF&filter-2891=1&utm_source=insomnia.gr&utm_medium=otherads&utm_content=skin&utm_campaign=seasonic-insomnia"]
+www.techgear.gr##.rightClickable
+www.techgear.gr##.leftClickable
+luben.tv###skin-container
+contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(7) > a[href^="http://www.stoiximan.gr"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
@@ -807,6 +827,7 @@ makeleio.gr###text-88 > .textwidget
 @@||xe.gr/property/recent_ads?*
 @@||focuswebtv.gr/banners/ekpompes.swf?*
 @@||ads.patris.gr/_banners/1421748421.gif
+@@||www.antenna.gr/js/adman-video*.js$script,domain=www.antenna.gr
 ! Exceptions to element hiding
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
