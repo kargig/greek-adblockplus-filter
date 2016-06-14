@@ -473,6 +473,10 @@ ad.gr.doubleclick.net
 ||kritikes-aggelies.gr/templates/ka/images/dress-up/BANNER_LEFT.png$image
 ||www.kritikes-aggelies.gr/templates/ka/images/xmoto-moto-new.png.pagespeed.ic.C3FcTY-SPs.png$image
 ||www.kritikes-aggelies.gr/templates/ka/images/xmoto-moto-logo-vertical3.png.pagespeed.ic.TblpkXpo_a.png$image
+||www.candianews.gr/banners/*
+||tvcreta.gr/upload_images/banners/*
+||2810.gr/images/2810photo/pelates1/*
+||www.cretapost.gr/img/ellinair.gif
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
@@ -841,6 +845,7 @@ www.lifo.gr###das_out
 www.lifo.gr###das_top > a[href^="/lines/click/"]
 www.lifo.gr###das_r1 > a[href^="/lines/click/"]
 www.sport24.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
+www.candianews.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
