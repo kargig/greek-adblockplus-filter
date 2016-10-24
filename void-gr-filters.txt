@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2016100500
+! Version: 2016102400
 ! Expires: 2 days
 ! Homepage: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -484,6 +484,7 @@ ad.gr.doubleclick.net
 ||www.trinews.gr/runimg/2016_05_Ethicsports_150x300.gif$image
 ||www.sport24.gr/Paraxena/article4176236.ece/BINARY/original/stoiximan-brand_2016_usps-940x90.jpg
 ||rockinathens.gr/wp-content/uploads/2016/08/ritual-banner.gif$image
+||tvxs.gr/sites/all/themes/xsonethree/skins/jobby_skinv3.jpg$image
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
@@ -861,6 +862,7 @@ www.trinews.gr##body > table:nth-of-type(2)
 runningnews.gr##body > table:nth-of-type(2)
 www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https://www.stoiximan.gr"]
 katohika.gr###text-12
+tvxs.gr###wholesite1 > a[href^="http://jobby.gr"]
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
