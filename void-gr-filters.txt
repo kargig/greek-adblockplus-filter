@@ -31,8 +31,6 @@ scdn.gr/images/helmet/promo_material/*
 ||oneman.gr/antikeimena/article1635665.ece/BINARY/oneman.jpg
 ||oneman.gr/antikeimena/article1635795.ece/BINARY/original/oneman_fasa.png
 ||oneman.gr/keimena/style/article1659136.ece/BINARY/oneman.jpg
-||24h.gr/sites/default/files/users/headerpiraeus.jpg
-||24h.gr/sites/default/files/users/learnmorepiraeus2.png
 ||thepressproject.gr/ad/*
 ||dealin.gr/iframes/5/*
 ||sport24.gr/genika/article1951216.ece/BINARY/original/mc_tab.png
@@ -690,7 +688,6 @@ hiphop.gr##iframe[src="*"]
 techteam.gr##A[href*=spinpalace]
 womenonly.gr##.connxtvscroll
 oneman.gr##.topClickable
-24h.gr###wsbanner
 athinorama.gr###right-adv
 athinorama.gr###left-adv
 sport24.gr##div.ad
