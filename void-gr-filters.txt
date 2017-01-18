@@ -304,7 +304,7 @@ ad.gr.doubleclick.net
 ||comedylab.gr/ad/*
 ||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
 ||bold.adman.gr/*
-||focuswebtv.gr/banners/*
+||focuswebtv.gr/images/banners/*$image
 ||efsyn.gr/ads/*
 ||efsyn.gr/wp-content/uploads/2014/05/housebanner300x250d.jpg
 ||athinorama.gr/lmnts/skins/*
@@ -726,8 +726,6 @@ contra.gr###editor_link[style*="background:transparent url(http://www.sport24.gr
 gazzetta.gr##A[href*="http://adserving.unibet.com/"]
 kathimerini.gr##A[href*="http://adman.kathimerini.gr/"]
 gr##A[href*="http://bold.adman.gr/"]
-focuswebtv.gr###leftskin
-focuswebtv.gr###rightskin
 iefimerida.gr###full-width-ad
 iefimerida.gr###full-width-ad-inner
 adslgr.com###mainBanner
@@ -868,7 +866,6 @@ www.e-food.gr###coca-cola-btn
 @@||athinorama.gr/adv/lmnts/disimata/*
 @@||skaihd-f.akamaihd.net/z/advert/*
 @@||xe.gr/property/recent_ads?*
-@@||focuswebtv.gr/banners/ekpompes.swf?*
 @@||ads.patris.gr/_banners/1421748421.gif
 @@||www.antenna.gr/js/adman-video*.js$script,domain=www.antenna.gr
 ! Exceptions to element hiding
