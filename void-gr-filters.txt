@@ -121,18 +121,12 @@ meteo.gr/AddsCust/*
 astrack.mediacdn.com/ipquery?siteorigin=sportfm
 cosmo.gr/XML/sponsors/wind/*
 cosmo.gr/XML/sponsors/sonybraviaplaisio/*
-kourdistoportocali.com/UsersFiles/admin/flash/lm_banner_300.swf
-kourdistoportocali.com/UsersFiles/admin/images/banners/right/T3_ONLINE_White.gif
-kourdistoportocali.com/UsersFiles/admin/flash/drive_hellas.swf
 insomnia.gr/templates/insomnia/images/battleleft.jpg
 insomnia.gr/templates/insomnia/images/cartoonbattle.jpg
-sport-fm.gr/resrc/banners/footballbet-99x22.png
-sport-fm.gr/resrc/banners/england365-77x22.png
 cacheserve.williamhill.com/*
 static01.aek365.gr/ads/*
 sporarena.eu/banneraff/aek365/*
 partypartners.com/images/marketing-materials/partycasino/greek/*
-static01.aek365.gr/js/swfobject/swfobject.js
 connextra.com/VistaBet/*
 cacheserve.williamhillcasino.com/*
 agronews.gr/images/banners/*
@@ -890,4 +884,3 @@ www.e-food.gr###coca-cola-btn
 ~athensmagazine.gr##.ad_wrapper
 ~aggeliestanea.gr##.adResult
 ~rockinathens.gr##.share-container
-
