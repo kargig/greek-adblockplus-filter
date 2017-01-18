@@ -101,7 +101,6 @@ plaisio.gr/BannerImages/0910/*
 stercinemas.gr/SterCinemas/SterImagesLive/Banners/Right%20Banners/emporiki*
 stercinemas.gr/SterCinemas/SterImagesLive/NESCAFE*
 villagecinemas.gr/media/Banners/*
-webtv.antenna.gr/webtv/images/banners/*
 ||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
 ||alfavita.gr/sites/default/files/efsyn_4.png
 kathimerini.gr/webadmin/Glife/Chartis/*
@@ -135,9 +134,6 @@ avopolis.gr/images/backskin5.gif
 avopolis.gr/banners/*.swf
 michanikos.gr/images/banner/*
 cosmo.gr/XML/sponsors/matiadis/*
-webtv.antenna.gr/webtv/images/starwars/pure/live/Site_BG__PURE.jpg
-webtv.antenna.gr/webtv/images/starwars/pure/live/PureRushLive_300.swf
-webtv.antenna.gr/webtv/images/starwars/pure/live/PureRushLive_728.swf
 e-cannibals.gr/blog/wp-content/uploads/sm_kanivaloiAD.jpg
 e-cannibals.gr/blog/wp-content/uploads/somafusion_adsb.jpg
 e-cannibals.gr/blog/wp-content/uploads/kanivaloiAD.jpg
@@ -154,8 +150,6 @@ laptopblog.gr/sites/default/files/MPU_alpha_STD_GR.jpg
 axiabanners.exodus.gr
 files.capital.gr/banners/
 files.capital.gr/images/dowjones/dowjones_home_logo_small.jpg
-webtv.antenna.gr/webtv/images/talento_voting.jpg
-webtv.antenna.gr/webtv/images/HBH/*
 cdn1.telemetryverification.net/tv2n/presenter/deploys/inbanner/*
 sport-fm.gr/resrc/images/layout/campaigns/europa/*
 scoreline.gr/Rugby/pizzacopy.jpg
@@ -181,7 +175,6 @@ promo.gpoint.com.gr
 ax-easy.com/banners/
 flights.gr/tromaktikos/
 in.gr/files/1/sponsors/
-webtv.antenna.gr/webtv/images/pepsi/
 geoloc12.geovisite.com:82/private/geocounter.js
 r2d2.adman.gr/gbanner/
 hbnews.gr/files/banners/
@@ -568,7 +561,6 @@ skai.gr##SPAN#jwlogo
 skai.gr##DIV#jw_wwg
 sport-fm.gr##LI.blue.poker
 sport-fm.gr##LI.blue.casino
-webtv.antenna.gr##DIV.banner728
 in.gr##A[href*="http://www.clickman.gr/"]
 in.gr##DIV.admessage
 in.gr##DIV#CenterRectangleBanner.adverticement
