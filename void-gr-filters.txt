@@ -540,6 +540,7 @@ sday.gr##IMG[src*="http://betsson.hs.llnwd.net/"]
 www.kritikes-aggelies.gr##.banner-side-collection
 www.kritikes-aggelies.gr##.categories2:nth-of-type(3)
 www.kritikes-aggelies.gr###banner-top-container
+www.kritikes-aggelies.gr###left-dress2
 enet.gr##DIV#b25
 enet.gr##DIV#b42
 enet.gr##DIV#b41
