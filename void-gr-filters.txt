@@ -633,10 +633,6 @@ milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
 milaraki.com##A[href="http://www.verizoniphone4accessories.com/"]
 e-go.gr##.deal
 tvxs.gr##DIV[id="sb-container"]
-sportena.com##A[href*="http://adserver.itsfogo.com"]
-sportena.com##A[href*="http://www.bet365.com"]
-sportena.com##A[href*="http://www.incasino.gr"]
-sportena.com##A[href*="http://www.poker.gr"]
 skroutz.gr###new_contract_online_overlay
 skroutz.gr###banner_160_filters
 skroutz.gr###banner_160_home
