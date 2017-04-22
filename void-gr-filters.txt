@@ -44,6 +44,7 @@ scdn.gr/images/helmet/promo_material/*
 ||static.reembed.com/data/logos/*
 ||argiro.gr/Images/Promotions/*
 ||www.thelosouvlakia.gr/cms/Uploads/ad/*
+||www.plus4u.gr/flash/plusilektrikes.swf
 adman.otenet.gr/*
 in.gr/banners/*
 banners.otenet.gr/banner/all_banners/*
