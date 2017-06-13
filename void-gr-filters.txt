@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2016123000
+! Version: 2017061300
 ! Expires: 2 days
 ! Homepage: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -419,6 +419,8 @@ ad.gr.doubleclick.net
 ||www.techgear.gr/wp-content/themes/tg3/images/itrend_techgear_v2.jpg$image
 ||luben.tv/wp-content/uploads/2017/01/voyager.jpg
 ||sport24.gr/multimedia/article4482885.ece/BINARY/original/stoiximan-usps-mobile-apps.940x90.jpg
+||marketnews.gr/banners/groupama_970x250.gif
+||marketnews.gr/banners/ipos.jpg
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
