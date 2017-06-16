@@ -412,7 +412,6 @@ ad.gr.doubleclick.net
 ||techgear.gr/wp-content/themes/tg3/images/dressme/mls_techgear_dec_2016.jpg$image
 ||www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
 ||www.dwrean.net##a[href="http://www.kratisinow.gr"]
-||educate.theowl.gr/Image/6232/contra$subdocument,domain=www.contra.gr
 ||www.taxheaven.gr/public/banners/*$image
 ||www.taxheaven.gr/public/banners/*$object
 ||www.e-food.gr/site-assets/img/coca/*$image
@@ -421,6 +420,8 @@ ad.gr.doubleclick.net
 ||marketnews.gr/banners/groupama_970x250.gif
 ||marketnews.gr/banners/ipos.jpg
 ||sport24.gr/multimedia/*/stoiximan-usps-mobile-apps.*.jpg
+||educate.theowl.gr
+||call.theowl.gr
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
