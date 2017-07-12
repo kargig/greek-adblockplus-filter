@@ -31,7 +31,7 @@ scdn.gr/images/helmet/promo_material/*
 ||thepressproject.gr/ad/*
 ||dealin.gr/iframes/5/*
 ||sport24.gr/genika/article1951216.ece/BINARY/original/mc_tab.png
-||sport24.gr/multimedia/article3679759.ece/BINARY/original/stoiximan.png
+||sport24.gr/multimedia/*/stoiximan*.png
 ||cheapis.gr/widget/*
 ||widgets.nova.gr/nownext_compact/el/*
 ||airfasttickets.gr/affiliate/*
@@ -419,7 +419,7 @@ ad.gr.doubleclick.net
 ||luben.tv/wp-content/uploads/2017/01/voyager.jpg
 ||marketnews.gr/banners/groupama_970x250.gif
 ||marketnews.gr/banners/ipos.jpg
-||sport24.gr/multimedia/*/stoiximan-usps-mobile-apps.*.jpg
+||sport24.gr/multimedia/*/stoiximan*.jpg
 ||educate.theowl.gr
 ||call.theowl.gr
 !Element-Hiding Rules
