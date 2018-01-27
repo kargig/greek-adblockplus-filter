@@ -392,7 +392,7 @@ ad.gr.doubleclick.net
 ||lifo.gr/icache/940/337/1/983904_GOT_970.jpg
 ||travelstyle.gr/portal/files/banners/*$image
 ||sport-fm.gr/resrc/images/customBanners/novi_438x75_paysafe.jpg
-||www.candianews.gr/banners/*
+||www.candiadoc.gr/banners/*
 ||tvcreta.gr/upload_images/banners/*
 ||2810.gr/images/2810photo/pelates1/*
 ||contra.gr/multimedia/article4122214.ece/BINARY/original/stoiximan-euro2016.jpg
@@ -424,6 +424,8 @@ ad.gr.doubleclick.net
 ||call.theowl.gr
 ||bankingnews.gr/ad/*$image
 ||bankingnews.gr/ad/*/*$subdocument
+||www.neakriti.gr/BannersExternal.aspx?bid=*
+||www.creteplus.gr/assets/bnrs/*
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
@@ -787,7 +789,7 @@ www.lifo.gr###das_out
 www.lifo.gr###das_top > a[href^="/lines/click/"]
 www.lifo.gr###das_r1 > a[href^="/lines/click/"]
 www.sport24.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
-www.candianews.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
+www.candiadoc.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
 news247.gr###mainContent > .alpha.grid_12 > .main.default.stories:nth-of-type(4)
 news247.gr###mainContent > .alpha.grid_12 > .bolder.lineborder
 news247.gr###mainContent > .alpha.grid_12 > .main.default.stories:nth-of-type(8)
@@ -811,6 +813,10 @@ www.e-food.gr###coca-cola-btn
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
 voicenews.gr##.row.sidebar-nav
+fonien.gr##.bdaia-bellow-header
+fonien.gr##.bdaia-custom-area > .bd-container > div
+fonien.gr##.bdaia-ad-container
+fonien.gr##.bdaia-widget-e3
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
