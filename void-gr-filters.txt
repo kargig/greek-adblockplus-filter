@@ -806,7 +806,7 @@ onsports.gr###textlinks
 www.lifo.gr##a[href*="/lines/click/"]
 www.taxheaven.gr###main > .ads
 www.taxheaven.gr##.aside
-www.e-food.gr###coca-cola-btn
+www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
 voicenews.gr##.row.sidebar-nav
