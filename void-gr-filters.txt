@@ -809,6 +809,10 @@ www.taxheaven.gr##.aside
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
+www.filadelfia-xalkidona.gr##.td_block_3
+www.filadelfia-xalkidona.gr##.td_block_16
+www.filadelfia-xalkidona.gr##.td-a-rec-id-content_top
+www.filadelfia-xalkidona.gr##.td-header-sp-rec
 voicenews.gr##.row.sidebar-nav
 fonien.gr##.bdaia-bellow-header
 fonien.gr##.bdaia-custom-area > .bd-container > div
