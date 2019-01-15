@@ -833,6 +833,7 @@ e-ptolemeos.gr###custom_html-17
 e-ptolemeos.gr###custom_html-25
 e-ptolemeos.gr###custom_html-30
 e-ptolemeos.gr##.custom-html-widget
+www.xo.gr###AdPremiumSticky
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
