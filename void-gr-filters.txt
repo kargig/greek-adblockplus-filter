@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2019011700
+! Version: 2019011701
 ! Expires: 2 days
 ! Homepage: https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -429,6 +429,7 @@ ad.gr.doubleclick.net
 ||e-ptolemeos.gr/*.gif$image
 ||e-ptolemeos.gr/wp-content/uploads/2017/05/roi-eid-ban.jpg
 ||eleftheria.gr/IMAGES/BANNERS^
+||usay.gr/hyperads/
 !Element-Hiding Rules
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
@@ -871,6 +872,7 @@ i-kyr.gr###rightcolumn > div:nth-of-type(1)
 i-kyr.gr##footer > div:nth-of-type(1) > div:nth-of-type(2)
 www.usay.gr##div.adds_sec:nth-of-type(5)
 www.usay.gr##div.adds_sec:nth-of-type(4)
+www.usay.gr##.new60sbanners
 ! Exception Rules
 @@sport-fm.gr/newspapers/$elemhide
 @@resources.sport-fm.gr/sportfm/newspapers/
