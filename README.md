@@ -6,4 +6,4 @@ Plus](https://adblockplus.org/).
 
 Supplement to [EasyList filter](https://easylist.to/)
 
-Read More at http://www.void.gr/kargig/blog/greek-adblock-plus-filter/
+Read More at https://www.void.gr/kargig/blog/greek-adblock-plus-filter/
