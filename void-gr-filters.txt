@@ -590,6 +590,8 @@ ethnos.gr##DIV#promotext
 ethnos.gr##DIV.banner300250
 ethnos.gr##DIV.underphoto
 ethnos.gr##div[class="agores300"]
+eviaportal.gr##.bos_searchbox_widget_class
+eviaportal.gr###custom_html-2
 fimotro.blogspot.com##.widget-content
 flix.gr##.banner.medrect
 flix.gr##.banner.minirect
