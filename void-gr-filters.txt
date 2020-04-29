@@ -702,6 +702,16 @@ koutipandoras.gr##.banner
 koutipandoras.gr##.box_banner
 koutipandoras.gr##.top_ad_big
 koutipandoras.gr##.wpbrbannerinside
+larissanet.gr##[class^="custom_position_single"]
+larissanet.gr##.custom_area_single_01
+larissanet.gr##.elementor-element-c2a8f89
+larissanet.gr##.elementor-widget-image
+larissanet.gr##.elementor-section-items-middle
+larissanet.gr##.elementor-element-5716b5fa
+larissanet.gr##.elementor-element-3db4f540
+larissanet.gr##.elementor-element-5680254d
+larissanet.gr##.jeg_ad
+larissanet.gr##.widget_sp_image
 live24.gr###itrofi-left
 live24.gr###itrofi-right
 livemovies.gr###block-block-32
