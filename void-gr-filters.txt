@@ -591,6 +591,11 @@ ethnos.gr##DIV.underphoto
 ethnos.gr##div[class="agores300"]
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
+filadelfia-xalkidona.gr##.td_block_15
+filadelfia-xalkidona.gr##.td_flex_block
+filadelfia-xalkidona.gr##.td_mod_wrap
+filadelfia-xalkidona.gr##.tdi_88_ffb
+filadelfia-xalkidona.gr##.vc_raw_html
 fimotro.blogspot.com##.widget-content
 flix.gr##.banner.medrect
 flix.gr##.banner.minirect
@@ -894,10 +899,6 @@ www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https:
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
-www.filadelfia-xalkidona.gr##.td-a-rec-id-content_top
-www.filadelfia-xalkidona.gr##.td-header-sp-rec
-www.filadelfia-xalkidona.gr##.td_block_16
-www.filadelfia-xalkidona.gr##.td_block_3
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 www.kritikes-aggelies.gr###banner-top-container
