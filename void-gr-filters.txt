@@ -371,6 +371,15 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||real.gr/BannersExternal.aspx*
 ||real.gr/Files/Skins/*
 ||real.gr/files/Banners/*
+||realestatenews.gr/images/stories/1theloakinita5.gif$image
+||realestatenews.gr/images/stories/250px.gif$image
+||realestatenews.gr/images/stories/banner-red.swf$object
+||realestatenews.gr/images/stories/baner-pontiki.gif$image
+||realestatenews.gr/images/stories/img-trap.jpg$image
+||realestatenews.gr/images/stories/logo-sygkatoikos-ren-a.gif$image
+||realestatenews.gr/images/stories/nomisma_140x60.gif$image
+||realestatenews.gr/images/stories/para_250x300.gif$image
+||realestatenews.gr/images/stories/pomidaani.gif$image
 ||rockinathens.gr/wp-content/uploads/2016/08/ritual-banner.gif$image
 ||roumlouki.gr/images/banners/*
 ||roumlouki.gr/images/roumlouki_banners/*
@@ -784,6 +793,9 @@ popaganda.gr##.banner
 popaganda.gr##.big-banner-top
 popaganda.gr##.main-margin.container > .newstrack-content.row > .post-margin-right.col-xs-8.col-md-8 > .waypoints.post-content > .affiliate > .textwidget
 prismanews.gr##.banneritem
+realestatenews.gr###right_col
+realestatenews.gr##.gk_tab_container0-style1
+realestatenews.gr##.gk_tab_wrap-style1
 runningnews.gr##body > table:nth-of-type(2)
 scores24live.com##IMG.imgLinks[src="images/betclick.gif"]
 scores24live.com##IMG.imgLinks[src="images/bodd.gif"]
