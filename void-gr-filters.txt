@@ -851,6 +851,8 @@ tanea.gr##.textlink
 techgear.gr###fasa
 techgear.gr###text-39
 techteam.gr##A[href*=spinpalace]
+tharrosnews.gr##center
+tharrosnews.gr##.custom-html-widget2
 thepressproject.gr###kalogritsas300
 thestival.gr###g-content-top-a
 thestival.gr##.customhidden-mobile
