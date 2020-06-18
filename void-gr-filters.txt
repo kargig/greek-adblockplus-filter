@@ -701,6 +701,8 @@ koutipandoras.gr##.banner
 koutipandoras.gr##.box_banner
 koutipandoras.gr##.top_ad_big
 koutipandoras.gr##.wpbrbannerinside
+kozanilife.gr#$#body{ background-image: none !important; }
+kozanilife.gr###carousel-1
 larissanet.gr##[class^="custom_position_single"]
 larissanet.gr##.custom_area_single_01
 larissanet.gr##.elementor-element-c2a8f89
