@@ -881,6 +881,10 @@ techteam.gr##A[href*=spinpalace]
 tharrosnews.gr##center
 tharrosnews.gr##.custom-html-widget2
 thepressproject.gr###kalogritsas300
+thenewspaper.gr##.code-block-6
+thenewspaper.gr##.header-promo
+thenewspaper.gr##.thene-prin-to-arthro
+thenewspaper.gr##.thene-widget
 thestival.gr###g-content-top-a
 thestival.gr##.customhidden-mobile
 thestival.gr##.moduletable.sideAdvertFix
