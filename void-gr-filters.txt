@@ -603,6 +603,9 @@ ethnos.gr##DIV.underphoto
 ethnos.gr##div[class="agores300"]
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
+evros-news.gr##img[src$=".gif"]
+evros-news.gr##.adv
+evros-news.gr##.widget_text[class^="widget-"]
 filadelfia-xalkidona.gr##.td_block_15
 filadelfia-xalkidona.gr##.td_flex_block
 filadelfia-xalkidona.gr##.td_mod_wrap
