@@ -798,6 +798,8 @@ popaganda.gr##.banner
 popaganda.gr##.big-banner-top
 popaganda.gr##.main-margin.container > .newstrack-content.row > .post-margin-right.col-xs-8.col-md-8 > .waypoints.post-content > .affiliate > .textwidget
 prismanews.gr##.banneritem
+real.gr###realTopBanner
+real.gr###realTopBannerGap
 realestatenews.gr###right_col
 realestatenews.gr##.gk_tab_container0-style1
 realestatenews.gr##.gk_tab_wrap-style1
@@ -860,6 +862,9 @@ sport24.gr##A[href*="mens-x.gr"]
 sport24.gr##A[href*="www.bwin.com"]
 sport24.gr##DIV.code.currentArea-logo
 sport24.gr##div.ad
+sport24.gr#?##hp-readmore-cross-article .article:-abp-has(.byline_date:-abp-contains(ADVERTORIAL))
+sport24.gr##div[id^=ENGAGEYA]
+sport24.gr###page > .content-top-wrap
 sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
