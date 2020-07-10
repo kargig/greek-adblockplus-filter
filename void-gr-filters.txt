@@ -880,6 +880,10 @@ techgear.gr###text-39
 techteam.gr##A[href*=spinpalace]
 tharrosnews.gr##center
 tharrosnews.gr##.custom-html-widget2
+thenewspaper.gr##.code-block-6
+thenewspaper.gr##.header-promo
+thenewspaper.gr##.thene-prin-to-arthro
+thenewspaper.gr##.thene-widget
 thepressproject.gr###kalogritsas300
 thestival.gr###g-content-top-a
 thestival.gr##.customhidden-mobile
