@@ -484,6 +484,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||liberal.gr/assets/images/Logo-alpha-Bank-235x50px.jpg$image
 ||static.car.gr/static/funshop/3boxesofmasks2.jpg$image
 ||static.car.gr/static/funshop/3boxesofmasks1.jpg$image
+||traction.gr/wp-content/uploads/2020/06/anytime_728x90b.jpg$image
 !Element-Hiding Rules
 !enet.gr##TABLE.fck-template.fck-t1
 ##.adsbox
