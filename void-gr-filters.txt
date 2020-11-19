@@ -234,6 +234,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||flix.gr/skins/*
 ||flix.gr/static/skins/*
 ||focuswebtv.gr/images/banners/*$image
+||fonitisparou.gr/*/banners/*$image
 ||forthnet.gr/media/Banners/geodata/*
 ||fvcreatives.s3.amazonaws.com/Perrier/20131115/banners/img/*
 ||gameover.gr/images/promotion/fifa12/*
