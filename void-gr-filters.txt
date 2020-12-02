@@ -649,6 +649,7 @@ gazzetta.gr###block-views-promoted_companies-block_1
 gazzetta.gr###block-wblocks-wblocks_companies
 gazzetta.gr###block-wblocks-wblocks_promoted_companies
 gazzetta.gr###content-banner-korios
+gazzetta.gr##.game-center-matches-item-sponsor
 gazzetta.gr##.linkLeftCntr
 gazzetta.gr##.linkRightCntr
 gazzetta.gr##A.betAtHome
