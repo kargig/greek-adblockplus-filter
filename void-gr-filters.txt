@@ -405,6 +405,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||secnews.gr/wp-content/uploads/2015/05/papei1.png
 ||seleo.gr/images/stories/diafimisi/*
 ||seleo.gr/images/stories/mast/*
+||seleo.gr/wp-content/uploads/2020/12/aaa5.png$image
 ||seri.gr/sites/default/iframes/*
 ||skai.gr/Themes/1/Default/Media/Layout_Renault/*
 ||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
