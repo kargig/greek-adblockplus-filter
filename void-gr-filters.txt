@@ -284,6 +284,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||in.gr/Themes/1/Default/Media/vb-logo-in.gif
 ||in.gr/files/1/2011/banner/ofi365_370x60.jpg
 ||in.gr/files/1/2012/01/09/office365_37060.jpg
+||insider.gr/sites/default/files/2019-02/EUROBANK%20RGB_1.png$image
 ||insurer.gr/widgets/calc/insuCalc.html?*
 ||interactive.forthnet.gr/banner*
 ||ishow.gr/images/*Skin.jpg
