@@ -613,6 +613,9 @@ enet.gr##DIV#b41
 enet.gr##DIV#b42
 enet.gr##IMG#BLOGGER_PHOTO_ID_5491192352761655986
 enet.gr##TD.content.first
+enimerosi.com##video
+enimerosi.com##.skinBanner
+enimerosi.com##.sw-banner
 entertv.gr##.linkLeft
 entertv.gr##.linkRight
 ethnos.gr##.deal
