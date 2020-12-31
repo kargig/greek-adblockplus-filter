@@ -152,7 +152,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||ads.naftemporiki.gr
 ||adwebone.com^$third-party
 ||airfasttickets.gr/affiliate/*
-||aj2234.online^
 ||alfavita.gr/sites/default/files/efsyn_4.png
 ||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
 ||apergia.gr/images/adds/*
@@ -178,7 +177,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||cdn1.bbend.net/media/com_news/ads/*
 ||cdnprojectagora.s3.amazonaws.com/gr/gazzetta.js$script,domain=gazzetta.gr
 ||cheapis.gr/widget/*
-||clevernt.com^
 ||clickbanner.gr^
 ||clickgr.gr/picture_library/*
 ||comedylab.gr/ad/*
