@@ -602,6 +602,9 @@ e-ptolemeos.gr##.afterheader
 e-ptolemeos.gr##.background-cover
 e-ptolemeos.gr##.custom-html-widget
 e-ptolemeos.gr##.e3lan-top
+e-thessalia.gr###header-sidebar
+e-thessalia.gr###sidebar
+e-thessalia.gr##.wpb_single_image:not(#printCover)
 efsyn.gr##.attachment-full.aligncenter
 eleftheria.gr##[src*="/BANNERS/"]
 eleftheria.gr##[src*="/banners/"]
