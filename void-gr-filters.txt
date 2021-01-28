@@ -760,6 +760,16 @@ koutipandoras.gr##.top_ad_big
 koutipandoras.gr##.wpbrbannerinside
 kozanilife.gr#$#body{ background-image: none !important; }
 kozanilife.gr###carousel-1
+lamiareport.gr##div[id^="div-gpt-ad"]
+lamiareport.gr###LRGR:style(background: none !important;)
+lamiareport.gr###widgetAD > div
+lamiareport.gr###underUnderRotator
+lamiareport.gr##.above-row
+lamiareport.gr##.fixedbottom
+lamiareport.gr##.head728
+lamiareport.gr##.home-aggelies
+lamiareport.gr##.underRotatorAd590
+lamiareport.gr##.underRotatorModuleAd590
 larissanet.gr##[class^="custom_position_single"]
 larissanet.gr##.custom_area_single_01
 larissanet.gr##.elementor-element-c2a8f89
