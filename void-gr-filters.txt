@@ -529,6 +529,8 @@ alterthess.gr###block-views-ads-sidebar-block-block
 amnizia.com##A[href="http://www.amnizia.com/advertisement"]
 amnizia.com##A[href="http://www.elcid.com/"]
 amnizia.com##A[href="http://www.text-link-ads.com/"]
+anagnostis.org###block-kentroxenonglossonlogos
+anagnostis.org###headline
 antenna.gr###afdiv
 athinorama.gr###left-adv
 athinorama.gr###right-adv
