@@ -817,6 +817,7 @@ news247.gr###mainContent > .alpha.grid_12 > .main.default.stories:nth-of-type(8)
 news247.gr##.seatimage
 news247.gr##DIV[class=dheadRightBoxBot]
 news247.gr##div[class="banner"]
+newsauto.gr###secondary
 newsbeast.gr###adFixFooter
 newsbeast.gr###artFoot
 newsbeast.gr###imgAd
