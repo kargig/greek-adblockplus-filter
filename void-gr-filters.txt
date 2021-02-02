@@ -610,6 +610,7 @@ eleftheria.gr##[src*="/BANNERS/"]
 eleftheria.gr##[src*="/banners/"]
 eleftheria.gr##div.title.sp-module:nth-of-type(5)
 elektronikosanagnostis.blogspot.com###crosscol-overflow
+energypress.gr##.ad-970-250
 enet.gr##DIV#b177
 enet.gr##DIV#b178
 enet.gr##DIV#b199
