@@ -649,6 +649,8 @@ filadelfia-xalkidona.gr##.td_flex_block
 filadelfia-xalkidona.gr##.td_mod_wrap
 filadelfia-xalkidona.gr##.tdi_88_ffb
 filadelfia-xalkidona.gr##.vc_raw_html
+fileleutheros.net###sidebar-one
+fileleutheros.net###page-body-header
 filoitexnisfilosofias.com###af-preloader
 filoitexnisfilosofias.com##.adsbygoogle
 filoitexnisfilosofias.com##.theiaStickySidebar
