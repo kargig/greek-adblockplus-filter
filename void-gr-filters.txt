@@ -401,8 +401,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||sport24.gr/multimedia/*/stoiximan*.jpg
 ||sport24.gr/multimedia/*/stoiximan*.png
 ||sport24.gr/img/app/9018330/0/o/0/0/matchcenter_stoiximan_desk.png$image
-||sportkit.gr/SportKitWidget.aspx
-||sportsmedia.gr/banners/subs.php
 ||sportygossip.com/sites/all/themes/athensbars/images/bg/*
 ||static.24media.gr/dealin/*
 ||static.24media.gr/interstitials/betoto/*
@@ -412,21 +410,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||stokokkino.gr/photos/gsk.jpg
 ||subs4free.com/js/wh4_s4f_p2.js
 ||switch.statman.gr^
-||techblog.gr/adpond/skins/sep-2013/nokia-1020-skin.jpg
-||techgear.gr/wp-content/themes/tg3/images/dressme/electroholic.jpg
-||techgear.gr/wp-content/themes/tg3/images/dressme/mls_techgear_dec_2016.jpg$image
-||techgear.gr/wp-content/themes/tg3/images/dressme/plus3.jpg
-||techgear.gr/wp-content/themes/tg3/images/dressme/techgear_energizer_skin*
-||techgear.gr/wp-content/themes/tg3/images/polytope_rotator.gif
-||techteam.gr/techteameasygr.swf
 ||thepressproject.gr/ad/*
-||thepressproject.gr/build/1.jpg
-||thepressproject.gr/eacount.gif
-||thepressproject.gr/files/asi.jpg
-||thepressproject.gr/files/ekloges-np-300.jpg
-||thepressproject.gr/ia-tpp.gif
-||thepressproject.gr/imerodromos.gif
-||thepressproject.gr/kalogritsas300.jpg
 ||tlife.gr/flash/banners/*
 ||tovima.gr/themes/1/Default/Media/home/pireos.jpg
 ||travelstyle.gr/portal/files/banners/*$image
@@ -438,8 +422,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||unibet-cdn.com^$domain=contra.gr
 ||usay.gr/hyperads/
 ||vidata.gr/files/plugins/longtailvideo/v5a/r6/vidads.swf
-||voicenews.gr/images/banners/voicenews_exnethellas_vertical_310x310.jpg
-||voicenews.gr/images/dimitra/banner_diafimisis.jpg
 ||widgets.nova.gr/nownext_compact/el/*
 ||wigetmedia.com/tags/
 ||www.anew.gr/admin/baners/*
@@ -450,11 +432,9 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
 ||www.e-food.gr/site-assets/img/coca/*$image
 ||www.neakriti.gr/BannersExternal.aspx?bid=*
-||www.sport24.gr/Paraxena/article4176236.ece/BINARY/original/stoiximan-brand_2016_usps-940x90.jpg
 ||www.sportkit.gr/Widget.aspx*
 ||www.taxheaven.gr/public/banners/*$image
 ||www.taxheaven.gr/public/banners/*$object
-||www.techgear.gr/wp-content/themes/tg3/images/itrend_techgear_v2.jpg$image
 ||www.thelosouvlakia.gr/cms/Uploads/ad/*
 ||www.triakilakodika.gr/images/teamworkpm650.png
 ||www.trinews.gr/runimg/2016_04_Saucony.gif$image
@@ -465,12 +445,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||vidads.gr^$3p
 ||services.madinad.com/analytics/*$domain=madinad-data.s3.amazonaws.com
 ||madinad-data.s3.amazonaws.com^$subdocument
-||lawspot.gr/sites/default/files/misc/sak728b.gif$image
-||lawspot.gr/sites/default/files/misc/sak250b.gif$image
-||lawspot.gr/sites/default/files/misc/nup600.gif$image
-||liberal.gr/assets/images/Logo-alpha-Bank-235x50px.jpg$image
-||traction.gr/wp-content/uploads/2020/06/anytime_728x90b.jpg$image
-||www.sport24.gr/img/app/8982787/922000/o/0/0/Sport24_Football_940x60_new.gif$image
 !Element-Hiding Rules
 !enet.gr##TABLE.fck-template.fck-t1
 ##.adsbox
