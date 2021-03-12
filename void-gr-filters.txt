@@ -879,6 +879,7 @@ sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
 sports.in.gr###middlebanner3
+star.gr##.sidebar
 start2click.com##BODY.c2sbody
 start2click.com##DIV.c2sads
 subs4free.com###ad-box-right
