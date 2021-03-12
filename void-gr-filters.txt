@@ -812,6 +812,13 @@ realestatenews.gr##.gk_tab_wrap-style1
 runningnews.gr##body > table:nth-of-type(2)
 sday.gr##DIV.banners
 sentragoal.gr##IMG[src="images/betathome.jpg"]
+serraikanea.gr###sp-banners-carousel
+serraikanea.gr###sp-banners-top
+serraikanea.gr###sp-component:style(width: 100% !important;)
+serraikanea.gr###sp-left
+serraikanea.gr###sp-right
+serraikanea.gr##.sp-page-title
+serraikanea.gr##.sppb-section-content-center
 sfl.com.gr##DIV.banner-side
 sfl.com.gr##DIV[style="width: 285px; float: right; overflow: hidden;"]
 shopping.pathfinder.gr###box-sponsors
