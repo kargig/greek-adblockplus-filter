@@ -879,8 +879,8 @@ sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
 sports.in.gr###middlebanner3
-start2click.com##BODY.c2sbody
-start2click.com##DIV.c2sads
+start2click.com###primary:style(margin: 0 auto !important;)
+start2click.com###secondary
 subs4free.com###ad-box-right
 subs4free.com##A[href*="http://serve.williamhillcasino.com/"]
 supersyntages.gr###box-block-block-12
