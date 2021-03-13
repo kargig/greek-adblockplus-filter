@@ -715,6 +715,7 @@ lamiareport.gr##.above-row
 lamiareport.gr##.fixedbottom
 lamiareport.gr##.head728
 lamiareport.gr##.home-aggelies
+lamiareport.gr##.module:nth-of-type(3)
 lamiareport.gr##.underRotatorAd590
 lamiareport.gr##.underRotatorModuleAd590
 larissanet.gr##[class^="custom_position_single"]
