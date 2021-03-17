@@ -931,6 +931,7 @@ www.veriotis.gr###HTML38
 www.veriotis.gr###HTML14
 www.veriotis.gr###HTML51
 www.veriotis.gr###HTML25
+www.veriotis.gr###HTML9
 www.veriotis.gr###HTML11
 www.veriotis.gr###HTML24
 www.veriotis.gr###HTML40
