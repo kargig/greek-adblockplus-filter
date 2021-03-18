@@ -927,8 +927,7 @@ usay.gr##[href="http://www.escore.gr/"]
 usay.gr##div.adds_sec:nth-of-type(4)
 usay.gr##div.adds_sec:nth-of-type(5)
 veriotis.gr###crosscol-overflow
-veriotis.gr###HTML38
-veriotis.gr###HTML14
+veriotis.gr###main > .HTML.widget
 veriotis.gr###HTML51
 veriotis.gr###HTML25
 veriotis.gr###HTML9
