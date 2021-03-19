@@ -927,43 +927,8 @@ usay.gr##[href="http://www.escore.gr/"]
 usay.gr##div.adds_sec:nth-of-type(4)
 usay.gr##div.adds_sec:nth-of-type(5)
 veriotis.gr###crosscol-overflow
-veriotis.gr###main > .HTML.widget
-veriotis.gr###HTML51
-veriotis.gr###HTML25
-veriotis.gr###HTML9
-veriotis.gr###HTML11
-veriotis.gr###HTML24
-veriotis.gr###HTML40
-veriotis.gr###HTML28
-veriotis.gr###HTML55
-veriotis.gr###HTML52
-veriotis.gr###HTML19
-veriotis.gr###HTML6
-veriotis.gr###HTML22
-veriotis.gr###HTML2
-veriotis.gr###HTML31
-veriotis.gr###HTML39
-veriotis.gr###HTML43
-veriotis.gr###HTML27
-veriotis.gr###HTML26
-veriotis.gr###HTML5
-veriotis.gr###HTML60
-veriotis.gr###HTML1
-veriotis.gr###HTML58
-veriotis.gr###HTML54
-veriotis.gr###HTML18
-veriotis.gr###HTML7
-veriotis.gr###HTML33
-veriotis.gr###HTML3
-veriotis.gr###HTML21
-veriotis.gr###HTML50
-veriotis.gr###HTML15
-veriotis.gr###HTML46
-veriotis.gr###HTML35
-veriotis.gr###HTML53
-veriotis.gr###HTML29
-veriotis.gr###HTML48
-veriotis.gr##.grey.without-text.right.bottom
+veriotis.gr##.HTML.widget:not(:last-child)> div:first-child
+veriotis.gr##div[id^="epom-"]
 vimaonline.gr###ad_13_left_1
 voicenews.gr##.row.sidebar-nav
 voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line > .financial_widget_top_line_medium.financial_widget_line_medium > .peiraios_link[href="http://www.piraeusbankgroup.com/"]
