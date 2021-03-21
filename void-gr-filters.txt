@@ -926,6 +926,9 @@ usay.gr##.new60sbanners
 usay.gr##[href="http://www.escore.gr/"]
 usay.gr##div.adds_sec:nth-of-type(4)
 usay.gr##div.adds_sec:nth-of-type(5)
+veriotis.gr###crosscol-overflow
+veriotis.gr##.HTML.widget:not(:last-child)> div:first-child
+veriotis.gr##div[id^="epom-"]
 vimaonline.gr###ad_13_left_1
 voicenews.gr##.row.sidebar-nav
 voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line > .financial_widget_top_line_medium.financial_widget_line_medium > .peiraios_link[href="http://www.piraeusbankgroup.com/"]
