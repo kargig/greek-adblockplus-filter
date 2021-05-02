@@ -687,7 +687,6 @@ in.gr##DIV[style="width: 150px; height: 100px; margin-top: 5px; margin-bottom: 5
 in.gr##div[class="textlink"]
 insomnia.gr##.banner-728x90-top
 insomnia.gr##.featured-2
-insomnia.gr##.ipsSpacer_both
 interesting.gr##div[class="wp125ad odd"]
 inthevip.gr##.left
 inthevip.gr##.right
