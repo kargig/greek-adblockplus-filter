@@ -995,7 +995,6 @@ indusviva.com^$document
 ! Exceptions to element hiding
 ~aggeliestanea.gr##.adResult
 ~athensmagazine.gr##.ad_wrapper
-~rockinathens.gr##.share-container
 ~www.ediva.gr##.pub_300x250
 ~www.ediva.gr##.pub_300x250m
 ~www.ediva.gr##.pub_728x90
