@@ -154,6 +154,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||bourdela.com/studiobanners/*
 ||call.thebutterfly.eu/Snippet/
 ||call.theowl.gr
+||cdn-gr.sexgr.net/b/*$image
 ||cdn.cnngreece.gr/media/com_news/ads/*$image
 ||cdn.cnngreece.gr/media/com_news/ads/4/skin_new_cosmote_2.jpg
 ||cdn.cnngreece.gr/templates/kgt_cnn/images/sponsors/videobox_1800x900.png
@@ -820,6 +821,7 @@ serraikanea.gr###sp-left
 serraikanea.gr###sp-right
 serraikanea.gr##.sp-page-title
 serraikanea.gr##.sppb-section-content-center
+sexgr.net#?#.left-col:-abp-has(h3:-abp-contains(Advertise))
 sfl.com.gr##DIV.banner-side
 sfl.com.gr##DIV[style="width: 285px; float: right; overflow: hidden;"]
 shopping.pathfinder.gr###box-sponsors
@@ -995,6 +997,7 @@ indusviva.com^$document
 ! Exceptions to element hiding
 ~aggeliestanea.gr##.adResult
 ~athensmagazine.gr##.ad_wrapper
+~sexgr.net##.ad-box
 ~www.ediva.gr##.pub_300x250
 ~www.ediva.gr##.pub_300x250m
 ~www.ediva.gr##.pub_728x90
