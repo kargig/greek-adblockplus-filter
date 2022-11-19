@@ -834,6 +834,8 @@ skai.gr##SPAN#jwlogo
 skroutz.gr###banner_160_filters
 skroutz.gr###banner_160_home
 skroutz.gr###banner_728_home
+skroutz.gr##li.labeled-product.labeled-item.card.cf
+skroutz.gr##.labeled-item.with-skus-slider.card.cf
 skroutz.gr###new_contract_online_overlay
 skroutz.gr###sponsorship
 skroutz.gr##.s_call_to_action
