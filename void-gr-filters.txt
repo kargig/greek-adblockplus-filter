@@ -486,6 +486,8 @@ auto24.gr##EMBED#efirstPage
 autotriti.gr##strong > a[href^="http://autotriti.adman.gr/click"]
 avgi.gr##A.fjmdiucexipcopnrmtke
 bestprice.gr##DIV#shopping-normal
+bestprice.gr##div[data-is-promoted=""]
+bestprice.gr##.prices__promoted-separator
 bno.gr##A[href*=linkwise]
 bno.gr##IFRAME.blockrandom
 capital.gr##A[href*="http://www.capital.gr/click.asp"]
