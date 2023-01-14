@@ -109,15 +109,9 @@
 ||villagecinemas.gr/media/Banners/*
 ||vrisko.gr/Logos/public/tromaktiko/3-300x250.swf^
 ||wagershare.com/affiliate_media/flashbanners/
-||wk.kathimerini.gr/kath/adv/banners468/*
-||wk.kathimerini.gr/kath/adv/textlinks/*
 ||wk.kathimerini.gr/webadmin/woman/gifsXor/*
 ||xe.gr/ProfessionalServices/banners/*
 ||zougla.gr/hyperads/*
-||zougla.gr/uploads/Banners/realnews*.swf^
-||zougla.gr/uploads/Banners/static/banner-*
-||zougla.gr/uploads/Banners/static/jeep*.swf^
-||zougla.gr/uploads/Banners/travel_city_banner*
 ||zougla.gr/uploads/thomas/travel_city_banner*
 ||2810.gr/images/2810photo/pelates1/*
 ||alfavita.gr/sites/default/files/efsyn_4.png
@@ -581,7 +575,6 @@ ethnos.gr##.srs
 ethnos.gr##DIV#promotext
 ethnos.gr##DIV.banner300250
 ethnos.gr##DIV.underphoto
-ethnos.gr##div[class="agores300"]
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
 evros-news.gr##img[src$=".gif"]
@@ -731,7 +724,6 @@ larissanet.gr##.widget_sp_image
 live24.gr###itrofi-left
 live24.gr###itrofi-right
 livescores.gr##DIV.textLink
-livescores.gr##DIV.textLink.right
 luben.tv###skin-container
 madata.gr###box_text_ads
 makeleio.gr###text-88 > .textwidget
@@ -849,7 +841,6 @@ sport-fm.gr##A.ga_track
 sport-fm.gr##A[href*="/specials/williamhill?"]
 sport-fm.gr##A[href*="http://adfarm.mediaplex.com/"]
 sport-fm.gr##A[href*="http://adserver.itsfogo.com/"]
-sport-fm.gr##A[href*="http://serve.williamhill.com/"]
 sport-fm.gr##A[href*="http://www.e-germanos.gr"]
 sport-fm.gr##A[href*="http://www.plaisio.gr"]
 sport-fm.gr##A[href="#0.1_"]
@@ -939,7 +930,6 @@ voria.gr##EMBED#mymovie
 williamhill.com##A#promoLink
 womenonly.gr##.connxtvscroll
 www.candiadoc.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
-www.contra.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"] > img
 www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https://www.stoiximan.gr"]
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
@@ -951,8 +941,6 @@ www.kritikes-aggelies.gr###left-dress2
 www.kritikes-aggelies.gr##.banner-side-collection
 www.kritikes-aggelies.gr##.categories2:nth-of-type(3)
 www.lifo.gr###das_out
-www.lifo.gr###das_r1 > a[href^="/lines/click/"]
-www.lifo.gr###das_top > a[href^="/lines/click/"]
 www.lifo.gr##.textads-wrapper
 www.lifo.gr##a[href*="/lines/click/"]
 www.skroutz.gr###featurette
@@ -978,9 +966,6 @@ www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
 goldenconcept.ir^$document
 indusviva.com^$document
 ! Exception Rules
-@@||contra.gr/XML/sponsors/pokergr/ilika/*_image.png
-@@||contra.gr/XML/sponsors/pokergr/ilika/fasa_bg.jpg
-@@||contra.gr/XML/sponsors/pokergr/ilika/mundobasket.css
 @@||politis-news.com/banners/entheta/
 @@||resources.sport-fm.gr/sportfm/newspapers/
 @@||sport-fm.gr/newspapers/$elemhide
