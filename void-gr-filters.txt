@@ -680,6 +680,7 @@ in.gr##DIV#RightVerticalBanner.adverticement
 in.gr##DIV.admessage
 in.gr##DIV[style="width: 150px; height: 100px; margin-top: 5px; margin-bottom: 5px;"]
 in.gr##div[class="textlink"]
+inpaok.com##[href^="https://gml-grp.com/C.ashx"]
 insomnia.gr##.banner-728x90-top
 insomnia.gr##.featured-2
 interesting.gr##div[class="wp125ad odd"]
