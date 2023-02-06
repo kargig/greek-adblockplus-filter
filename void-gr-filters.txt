@@ -732,6 +732,7 @@ madata.gr###box_text_ads
 makeleio.gr###text-88 > .textwidget
 meteo.gr##.cityAdv
 meteo.gr##.newsbeast
+meteo.gr##.img-responsive
 milaraki.com###\5f widget-5
 milaraki.com###text-202339834
 milaraki.com##A[href*="http://www.ez-smoke.net/"]
