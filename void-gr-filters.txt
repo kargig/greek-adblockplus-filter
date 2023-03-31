@@ -930,6 +930,9 @@ tvsubtitles.gr##DIV.box_main_ads
 tvxs.gr###wholesite1 > a[href^="http://jobby.gr"]
 tvxs.gr##DIV[class="subBanner"]
 tvxs.gr##DIV[id="sb-container"]
+unboxholics.com###top-banner
+unboxholics.com##.inside-articles-banner
+unboxholics.com###after-popular
 usay.gr###frame_id_1
 usay.gr###frame_id_2
 usay.gr##.central_banner_area
