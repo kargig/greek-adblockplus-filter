@@ -688,6 +688,14 @@ inthevip.gr##.left
 inthevip.gr##.right
 kalamatatimes.gr###mvp-leader-wrap
 kalamatatimes.gr###mvp-site-main:style(margin-top: 0px !important;)
+! https://www.kathimerini.com.cy/gr/
+kathimerini.com.cy##.ban-box
+kathimerini.com.cy##.ban_pushdown
+kathimerini.com.cy##div[class*=ban_hor_]
+kathimerini.com.cy##.hban
+||adstorebluebird.cy^$third-party
+! Sporadic fullpage overlay ad
+kathimerini.com.cy##.takeover-ban
 kathimerini.gr###nx-stick-help
 kathimerini.gr##.ad-block-universal
 kathimerini.gr##.nxAds
