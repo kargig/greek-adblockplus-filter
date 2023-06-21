@@ -336,6 +336,7 @@
 ||rockinathens.gr/wp-content/uploads/2016/08/ritual-banner.gif$image
 ||roumlouki.gr/images/banners/*
 ||roumlouki.gr/images/roumlouki_banners/*
+||runningnews.gr/bimages/
 ||s3.amazonaws.com/bulkimages/2011/skins/newsit-11888-bg.jpg
 ||s3.amazonaws.com/bulkimages/2012/newsit/opap_skin_newsit.jpg
 ||scdn.gr/images/yogurt/dressings/forthnet/*
