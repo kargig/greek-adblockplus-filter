@@ -888,6 +888,8 @@ sport24.gr##div.ad
 sport24.gr#?##hp-readmore-cross-article .article:-abp-has(.byline_date:-abp-contains(ADVERTORIAL))
 sport24.gr##div[id^=ENGAGEYA]
 sport24.gr###page > .content-top-wrap
+sport24.gr##.premium_banner
+sport24.gr##[id^="ros"]
 sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
