@@ -40,6 +40,7 @@
 ||e-cannibals.gr/blog/wp-content/uploads/kanivaloiAD.jpg^
 ||e-cannibals.gr/blog/wp-content/uploads/sm_kanivaloiAD.jpg^
 ||e-cannibals.gr/blog/wp-content/uploads/somafusion_adsb.jpg^
+||e-evros.gr/banners/*.gif
 ||e-shop.gr/banners/spamet.swf^
 ||edu4u.gr/Portals/0/Banners/*
 ||epiruspost.gr/images/banners/
