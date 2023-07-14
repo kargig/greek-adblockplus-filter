@@ -893,6 +893,8 @@ sport24.gr##div[id^=ENGAGEYA]
 sport24.gr###page > .content-top-wrap
 sport24.gr##.premium_banner
 sport24.gr##[id^="ros"]
+sport24.gr##.article-single__body > .creative_placeholder.content-thirdParty
+sport24.gr##.article-single__body > .content-thirdParty
 sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
