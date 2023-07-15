@@ -251,6 +251,7 @@
 ||logotypos.gr/wp-content/uploads/2018/01/ektypotik3.gif$image
 ||logotypos.gr/wp-content/uploads/2018/02/EKTYPOTIKH_LOW.jpg$image
 ||logotypos.gr/wp-content/uploads/2018/03/TELIKO_BACKGROUND.jpg$image
+||logotypos.gr/wp-content/uploads/2020/10/%CE%9C%CE%A5%CE%98%CE%99%CE%A3%CE%A4%CE%9F%CE%A1%CE%97%CE%9C%CE%91-%CE%A1%CE%9F%CE%A5%CE%A3%CE%A3%CE%9F%CE%A5%CE%9D%CE%95%CE%9B%CE%9F%CE%A3-scaled.jpg$image
 ||luben.tv/wp-content/uploads/2014/11/output_cVZG2g.gif
 ||luben.tv/wp-content/uploads/2015/07/CORONA-SUNSETS_A-1.jpg
 ||luben.tv/wp-content/uploads/2015/09/unnamed.png
@@ -530,6 +531,11 @@ cosmo.gr##.rightClickable
 cosmo.gr##A.sponsLink
 cretalive.gr###sma-banner-wide
 cretalive.gr###sponsors-mainmodule
+cyclades24.gr##div[id*="clever_"]
+cyclades24.gr##iframe[src*="unblockia"]
+cyclades24.gr##.space3d
+cyclades24.gr##.td-a-rec
+cyclades24.gr##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_128.vc_column
 derby.gr##A[href*="http://www.bet-at-home.com/"]
 dokari.gr##.side
 dokari.gr##.static
@@ -740,6 +746,11 @@ larissanet.gr##.widget_sp_image
 live24.gr###itrofi-left
 live24.gr###itrofi-right
 livescores.gr##DIV.textLink
+logotypos.gr##.a-46.a-single > [href="https://www.badrabbit.gr/"]
+logotypos.gr##.a-42.a-single
+logotypos.gr##.widget_media_image
+logotypos.gr##.widget_custom_html.custom_html-2
+logotypos.gr##.td_single_image_bg
 luben.tv###skin-container
 madata.gr###box_text_ads
 makeleio.gr###text-88 > .textwidget
@@ -803,6 +814,14 @@ oroskopos.gr##.banners_mid_2
 parianostypos.gr##.yeslidergroup
 parianostypos.gr##div[id^="epom-"]
 parianostypos.gr##div[id^="hstp-"]
+parianostypos.gr###googleNewsBanner
+parianostypos.gr##div.module:nth-of-type(9)
+parianostypos.gr###sp-right > div.module > .clearfix.mod-wrapper > .clearfix.mod-content > .clearfix.mod-inner > .custom
+parianostypos.gr###header > .span8
+parianostypos.gr###sp-content-top-left > .visible-desktop.module
+parianostypos.gr###sp-content-top-right > div.module > .clearfix.mod-wrapper > .clearfix.mod-content > .clearfix.mod-inner > .custom
+parianostypos.gr##div#sas_placement1119:nth-of-type(5)
+parianostypos.gr##.clever_41786_pushdown
 pathfinder.gr##div[id="ad-links"]
 patrainews.gr###block-block-40
 patrainews.gr###block-block-41
