@@ -351,7 +351,6 @@
 ||seleo.gr/images/stories/diafimisi/*
 ||seleo.gr/images/stories/mast/*
 ||seleo.gr/wp-content/uploads/2020/12/aaa5.png$image
-||sender.clevernt.com/*$subdocument
 ||seri.gr/sites/default/iframes/*
 ||skai.gr/Themes/1/Default/Media/Layout_Renault/*
 ||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
