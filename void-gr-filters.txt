@@ -552,6 +552,8 @@ e-thessalia.gr###header-sidebar
 e-thessalia.gr###sidebar
 e-thessalia.gr##.wpb_single_image:not(#printCover)
 efsyn.gr##.attachment-full.aligncenter
+efsyn.gr##.eng_ads
+efsyn.gr##.eng_recs_holder
 eleftheria.gr##[src*="/BANNERS/"]
 eleftheria.gr##[src*="/banners/"]
 eleftheria.gr##div.title.sp-module:nth-of-type(5)
