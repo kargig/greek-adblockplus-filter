@@ -276,6 +276,7 @@
 ||missbloom.gr/media/vidspics/*-skin.jpg
 ||mothersblog.gr/media/com_skins/skins/79/*
 ||mydirect.gr/CalculatorBanner.aspx?*
+||naxospress.gr/wp-content/uploads/313/152/public/assets/js/912/411.js
 ||news.in.gr/Themes/1/Default/Media/image-ads-sponsor.jpg
 ||newsbeast.gr/files/1/banners/animal/animal.jpg
 ||newsbeast.gr/files/1/banners/axaTextAdImg.png
@@ -772,6 +773,10 @@ milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
 milaraki.com##A[href="http://www.verizoniphone4accessories.com/"]
 naftemporiki.gr###google_ads_container
 naftemporiki.gr##DIV.banner
+naxospress.gr##.naxos-pano-apo-tin-epikefalida-se-ola
+naxospress.gr##.td-fix-index.tdb-block-inner > .naxos-target.naxos-meta-to-periechomeno
+naxostimes.gr##.ctMainPostAds
+naxostimes.gr##.ctHomesidebar
 new.e-go.gr##DIV#advsliding258
 news.in.gr##DIV[style="background: url(\"Themes/1/Default/Media/image-ads-sponsor.jpg\") no-repeat scroll left center rgb(243, 243, 243); text-align: center; border-bottom: 1px solid rgb(230, 230, 230); padding: 4px 0px;"]
 news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.jpg) no-repeat left;  text-align:center;background-color: #F3F3F3;border-bottom:1px solid #E6E6E6;padding:4px 0px;"]
