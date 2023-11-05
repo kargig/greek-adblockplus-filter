@@ -506,12 +506,9 @@ contra.gr##.mythos
 contra.gr##.rightClickable
 contra.gr##A.cokeLink
 contra.gr##A.cokeLink2
-contra.gr##A[href*="http://adserver.itsfogo.com/click.aspx"]
-contra.gr##A[href*="http://el.betclic.com/"]
 contra.gr##A[href*="http://www.betclic.com/"]
 contra.gr##A[href*="http://www.plaisio.gr"]
 contra.gr##A[href="http://goo.gl/3vrB4h"]
-contra.gr##A[href="http://www.dealin.gr/?utm_source=contra.gr&utm_medium=fasa&utm_term=eurobasket&utm_content=xorigos&utm_campaign=contra_eurobasket"]
 contra.gr##DIV#bfair
 contra.gr##DIV.proan
 contra.gr##DIV[style="border-bottom: 5px solid rgb(0, 102, 204); clear: both;"]
@@ -633,7 +630,6 @@ gazzetta.gr##.linkLeftCntr
 gazzetta.gr##.linkRightCntr
 gazzetta.gr##A.betAtHome
 gazzetta.gr##A[href*="http://ads.meridianbet.gr/"]
-gazzetta.gr##A[href*="http://adserver.itsfogo.com/"]
 gazzetta.gr##A[href*="http://adserving.unibet.com/"]
 gazzetta.gr##A[href*="http://ff.connextra.com/"]
 gazzetta.gr##A[href*="http://media.mybet.com/"]
@@ -691,7 +687,6 @@ in.gr###middle_banner_1
 in.gr###middle_banner_2
 in.gr##.stamps
 in.gr##A[href*="http://partner.sbaffiliates.com/"]
-in.gr##A[href*="http://www.clickman.gr/"]
 in.gr##DIV#CenterRectangleBanner.adverticement
 in.gr##DIV#RightVerticalBanner.adverticement
 in.gr##DIV.admessage
@@ -771,7 +766,6 @@ milaraki.com##A[href*="http://www.ez-smoke.net/"]
 milaraki.com##A[href*="http://www.indolucky7.com/sbobet/sbobet.html"]
 milaraki.com##A[href*=spinpalace]
 milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
-milaraki.com##A[href="http://www.verizoniphone4accessories.com/"]
 naftemporiki.gr###google_ads_container
 naftemporiki.gr##DIV.banner
 naxospress.gr##.naxos-pano-apo-tin-epikefalida-se-ola
@@ -809,7 +803,6 @@ newsbomb.gr##DIV[style="mergin:5px 0"]
 newsit.gr###left
 newsit.gr###right
 newsit.gr###sponsor-link
-newsit.gr##A[href*="http://194.219.47.98/link/"]
 newsit.gr##DIV[style="margin: 10px 0 0 0; display: block;clear:both;"]
 nooz.gr###ctl00_articleLeftColumn_ctl04_adRotatorUpdatePanel
 nooz.gr###ctl00_articleLeftColumn_ctl05_adRotatorUpdatePanel
@@ -894,12 +887,9 @@ sport-fm.gr##A.banner
 sport-fm.gr##A.footballbet
 sport-fm.gr##A.ga_track
 sport-fm.gr##A[href*="/specials/williamhill?"]
-sport-fm.gr##A[href*="http://adfarm.mediaplex.com/"]
-sport-fm.gr##A[href*="http://adserver.itsfogo.com/"]
 sport-fm.gr##A[href*="http://www.e-germanos.gr"]
 sport-fm.gr##A[href*="http://www.plaisio.gr"]
 sport-fm.gr##A[href="#0.1_"]
-sport-fm.gr##A[style="padding: 3px; background-color: rgb(222, 135, 20); color: rgb(255, 255, 255); text-decoration: none;"][href="http://www.vistabet.com/?affiliate=sportfmVB&pname=Textlink"]
 sport-fm.gr##DIV.banner
 sport-fm.gr##DIV[id="seios-link"]
 sport-fm.gr##LI.blue.casino
@@ -913,7 +903,6 @@ sport24.gr##A[href*="acidbet.gr"]
 sport24.gr##A[href*="betclic.com"]
 sport24.gr##A[href*="doubleclick.net"]
 sport24.gr##A[href*="e-shop.gr"]
-sport24.gr##A[href*="http://www.allshops.gr"]
 sport24.gr##A[href*="http://www.menperfect.gr"]
 sport24.gr##A[href*="http://www.plaisio.gr"]
 sport24.gr##A[href*="http://www.sport24.gr/html/ent/042/ent.374042.asp"]
@@ -1004,7 +993,6 @@ www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https:
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
-www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 www.kritikes-aggelies.gr###banner-top-container
 www.kritikes-aggelies.gr###left-dress2
