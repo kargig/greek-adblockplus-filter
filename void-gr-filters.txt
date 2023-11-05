@@ -616,6 +616,7 @@ fonien.gr##.bdaia-bellow-header
 fonien.gr##.bdaia-custom-area > .bd-container > div
 fonien.gr##.bdaia-widget-e3
 forthnet.gr##.superbanner
+galinos.gr##.header-billboard
 gamato.info##IMG[src="images/728_generic_betnow.gif"]
 gasprice.gr##div[align="left"]
 gato.gr##div[class=lad]
