@@ -700,6 +700,7 @@ insomnia.gr##.insMainAd.ad.grid--entry
 interesting.gr##div[class="wp125ad odd"]
 inthevip.gr##.left
 inthevip.gr##.right
+ipaidia.gr##.asdbg.wrap-right.inarticle-add-mob.inarticle-add
 itechnews.gr##.boxzilla
 itechnews.gr##.boxzilla-overlay
 itechnews.gr##.itech-adlabel
