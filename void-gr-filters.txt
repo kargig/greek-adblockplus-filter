@@ -696,6 +696,7 @@ in.gr##div[class="textlink"]
 inpaok.com##[href^="https://gml-grp.com/C.ashx"]
 insomnia.gr##.banner-728x90-top
 insomnia.gr##.featured-2
+insomnia.gr##.insMainAd.ad.grid--entry
 interesting.gr##div[class="wp125ad odd"]
 inthevip.gr##.left
 inthevip.gr##.right
