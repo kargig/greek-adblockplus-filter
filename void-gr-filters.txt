@@ -694,6 +694,13 @@ in.gr##DIV.admessage
 in.gr##DIV[style="width: 150px; height: 100px; margin-top: 5px; margin-bottom: 5px;"]
 in.gr##div[class="textlink"]
 inpaok.com##[href^="https://gml-grp.com/C.ashx"]
+insider.gr###block-dfptaghome-vertical-1
+insider.gr###block-dfptagside-bar-1-article
+insider.gr##div.banner-place-in
+insider.gr###block-dfptagside-bar-2-article
+insider.gr###block-dfptaghome-horizontal-2
+insider.gr###block-dfptaghome-vertical-2
+insider.gr###block-dfptaghome-vertical-3
 insomnia.gr##.banner-728x90-top
 insomnia.gr##.featured-2
 insomnia.gr##.insMainAd.ad.grid--entry
