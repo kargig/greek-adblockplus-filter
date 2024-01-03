@@ -68,6 +68,7 @@
 ||kathimerini.gr/webadmin/Ellada/BCA/
 ||kathimerini.gr/webadmin/Glife/Chartis/*
 ||kathimerini.gr/webadmin/techno/connx/*
+||kavalapoint.gr/wp-content/uploads/2023/11/ezgif.com*$image
 ||lifo.gr/adsimg/*
 ||livikos.gr/adserver/*
 ||makthes.gr/filestore/banners/*
@@ -726,6 +727,11 @@ kathimerini.gr##.ad-block-universal
 kathimerini.gr##.nxAds
 kathimerini.gr##.nxsidebar
 katohika.gr###text-12
+kavalapoint.gr##.stream-item-top.stream-item
+kavalapoint.gr##[href="http://poulos-shop.gr"]
+kavalapoint.gr##.theiaStickySidebar > .widget_media_image.widget.container-wrapper
+kavalapoint.gr##.theiaStickySidebar > .widget_custom_html.widget.container-wrapper.widget_text
+kavalapoint.gr##[href="http://www.toolpoint.gr"]
 kerdos.gr##div[class="RightColumnBanners"]
 kerdos.gr##div[class="bannerTables"]
 koutipandoras.gr###topfeatured
