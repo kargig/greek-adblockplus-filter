@@ -813,6 +813,10 @@ newsbeast.gr##.menuAdd
 newsbeast.gr##.topShare_textad
 newsbeast.gr##.txtLinks
 newsbeast.gr##A[href*="http://bs.serving-sys.com/"]
+newsbeast.gr##div.sidebarAmSlot.jsx-1829390467
+newsbeast.gr##.undeMenuAmSlot2.skinContained.doNotPrint.amSlot.jsx-426522538
+newsbeast.gr##.amSlotInReadVideo.jsx-3307064496
+newsbeast.gr##.doNotPrint.amSlotFeed.jsx-2939975430
 newsbomb.gr###json-textlinks
 newsbomb.gr###textlinks
 newsbomb.gr##.skin-link
