@@ -992,6 +992,7 @@ tvxs.gr##DIV[id="sb-container"]
 unboxholics.com###top-banner
 unboxholics.com##.inside-articles-banner
 unboxholics.com###after-popular
+unboxholics.com##.banner-min-h-600
 usay.gr###frame_id_1
 usay.gr###frame_id_2
 usay.gr##.central_banner_area
