@@ -828,6 +828,8 @@ newsit.gr###left
 newsit.gr###right
 newsit.gr###sponsor-link
 newsit.gr##DIV[style="margin: 10px 0 0 0; display: block;clear:both;"]
+nickelodeon.gr##aside.pospromo
+nickelodeon.gr##.sidebar
 nooz.gr###ctl00_articleLeftColumn_ctl04_adRotatorUpdatePanel
 nooz.gr###ctl00_articleLeftColumn_ctl05_adRotatorUpdatePanel
 nooz.gr###ctl00_articleLeftColumn_ctl06_adRotatorUpdatePanel
