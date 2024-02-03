@@ -1030,6 +1030,9 @@ www.taxheaven.gr###main > .ads
 www.taxheaven.gr##.aside
 www.techgear.gr##.leftClickable
 www.techgear.gr##.rightClickable
+www.techgear.gr##div.sticky-el.ad__desktop.ad__div
+www.techgear.gr##.ad__desktop.ad__div
+www.techgear.gr##.ad__div
 www.trinews.gr##body > table:nth-of-type(2)
 www.xo.gr###AdPremiumSticky
 zoomnews.gr##A[href*="ad-emea.doubleclick.net/click"]
