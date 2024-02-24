@@ -907,6 +907,7 @@ skroutz.gr##DIV[id="afc"]
 skroutz.gr##DIV[id="home_728x90"]
 skroutz.gr##.product-ad
 skroutz.gr##.selected-product-cards
+skroutz.gr##li:has([role="presentation"])
 sport-fm.gr###backgroundlink
 sport-fm.gr##.textlinks
 sport-fm.gr##A.banner
