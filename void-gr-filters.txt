@@ -528,6 +528,7 @@ corfuland.gr##.module-shadow
 cosmo.gr##.leftClickable
 cosmo.gr##.rightClickable
 cosmo.gr##A.sponsLink
+coverapi.store##[href^="https://affcpatrk.com/link"]
 cretalive.gr###sma-banner-wide
 cretalive.gr###sponsors-mainmodule
 cyclades24.gr##div[id*="clever_"]
@@ -954,6 +955,7 @@ start2click.com###secondary
 subs4free.com###ad-box-right
 subs4free.com##A[href*="http://serve.williamhillcasino.com/"]
 supersyntages.gr###box-block-block-12
+tainio-mania.online##[href^="https://affcpatrk.com/link"]
 tanea.gr##.textlink
 techgear.gr###fasa
 techgear.gr###text-39
