@@ -661,6 +661,7 @@ i-kyr.gr##footer > div:nth-of-type(1) > div:nth-of-type(2)
 i-live.gr##A[href*=stanjames]
 iefimerida.gr###full-width-ad
 iefimerida.gr###full-width-ad-inner
+iefimerida.gr###taboola-alternating-below-article-3
 imerisia.gr##.deal
 imerisia.gr##.sls
 imerisia.gr##.srs
