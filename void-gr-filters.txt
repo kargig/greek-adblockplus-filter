@@ -562,6 +562,7 @@ efsyn.gr##.eng_recs_holder
 eleftheria.gr##[src*="/BANNERS/"]
 eleftheria.gr##[src*="/banners/"]
 eleftheria.gr##div.title.sp-module:nth-of-type(5)
+eleftherostypos.gr##.ads-after-article-body
 elektronikosanagnostis.blogspot.com###crosscol-overflow
 energypress.gr##.ad-970-250
 emvolos.gr###text-10
