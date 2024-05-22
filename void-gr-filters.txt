@@ -873,6 +873,9 @@ patrainews.gr###left-ad-container
 patrainews.gr###region-sidebar-second
 patrainews.gr###right-ad-container
 patrainews.gr##.block-header-728x90
+pcsteps.gr###text-64
+pcsteps.gr###text-65
+pcsteps.gr##div.single-subscribe-block
 philenews.com##aside
 pitsirikos.net###text-19
 politis.com.cy##.banner
