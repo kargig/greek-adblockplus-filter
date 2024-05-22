@@ -802,6 +802,8 @@ naxospress.gr##.td-fix-index.tdb-block-inner > .naxos-target.naxos-meta-to-perie
 naxostimes.gr##.ctMainPostAds
 naxostimes.gr##.ctHomesidebar
 new.e-go.gr##DIV#advsliding258
+newmoney.gr##aside
+newmoney.gr##div.games
 news.in.gr##DIV[style="background: url(\"Themes/1/Default/Media/image-ads-sponsor.jpg\") no-repeat scroll left center rgb(243, 243, 243); text-align: center; border-bottom: 1px solid rgb(230, 230, 230); padding: 4px 0px;"]
 news.in.gr##DIV[style="background:url(Themes/1/Default/Media/image-ads-sponsor.jpg) no-repeat left;  text-align:center;background-color: #F3F3F3;border-bottom:1px solid #E6E6E6;padding:4px 0px;"]
 news247.gr###editor_link
