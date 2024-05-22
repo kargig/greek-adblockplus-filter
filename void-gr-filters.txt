@@ -854,6 +854,7 @@ onsports.gr##.bottom-popout.is-open
 opensoft.gr##DIV[style="border: 1px solid rgb(224, 224, 224); padding: 2px; margin-left: 20px; background-color: rgb(244, 244, 252); width: 140px; font-size: 12px;"]
 oroskopos.gr###banners
 oroskopos.gr##.banners_mid_2
+parapolitika.gr##div.banner
 parianostypos.gr##.yeslidergroup
 parianostypos.gr##div[id^="epom-"]
 parianostypos.gr##div[id^="hstp-"]
