@@ -1016,6 +1016,7 @@ tvsubtitles.gr##DIV.box_main_ads
 tvxs.gr###wholesite1 > a[href^="http://jobby.gr"]
 tvxs.gr##DIV[class="subBanner"]
 tvxs.gr##DIV[id="sb-container"]
+tvxs.gr##.cls-sticky-wrapper
 unboxholics.com###top-banner
 unboxholics.com##.inside-articles-banner
 unboxholics.com###after-popular
