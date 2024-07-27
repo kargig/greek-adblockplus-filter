@@ -894,6 +894,7 @@ prismanews.gr##.banneritem
 queen.gr##.wide-banner
 real.gr###realTopBanner
 real.gr###realTopBannerGap
+real.gr##.banner-wrapper
 realestatenews.gr###right_col
 realestatenews.gr##.gk_tab_container0-style1
 realestatenews.gr##.gk_tab_wrap-style1
