@@ -728,6 +728,7 @@ kathimerini.com.cy##.show.catfish_ad
 ||adstorebluebird.cy^$third-party
 ! Sporadic fullpage overlay ad
 kathimerini.com.cy##.takeover-ban
+kathimerini.com.cy##.OverallBlockBg
 kathimerini.gr###nx-stick-help
 kathimerini.gr##.ad-block-universal
 kathimerini.gr##.nxAds
