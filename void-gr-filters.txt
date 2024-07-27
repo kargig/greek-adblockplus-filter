@@ -536,6 +536,9 @@ cyclades24.gr##.space3d
 cyclades24.gr##.td-a-rec
 cyclades24.gr##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_128.vc_column
 derby.gr##A[href*="http://www.bet-at-home.com/"]
+dialogos.com.cy##a.adv-link
+dialogos.com.cy##a.notrack
+dialogos.com.cy##aside
 dokari.gr##.side
 dokari.gr##.static
 e-go.gr###advsliding352
