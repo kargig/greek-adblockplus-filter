@@ -994,6 +994,15 @@ thestival.gr##.customhidden-mobile
 thestival.gr##.moduletable.sideAdvertFix
 thestival.gr##.moduletable.sideFix
 thestival.gr##.sponsor
+tirnavospress.gr##.size-full.wp-image-122324.aligncenter
+tirnavospress.gr##.wp-image-120708.size-full.aligncenter
+tirnavospress.gr##.wp-image-120723.size-full.aligncenter
+tirnavospress.gr##.owl-stage-outer
+tirnavospress.gr###sidebar > .widget_block.widget
+tirnavospress.gr##.size-full.wp-image-110042.aligncenter
+tirnavospress.gr##.before-content.section
+tirnavospress.gr###under-post-content
+tirnavospress.gr##.content-inner > .footer-wide.section
 tlife.gr###sma-top-box > .boxHead_TopBar
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148868
 tlife.gr##div[style="height:286px;"]
