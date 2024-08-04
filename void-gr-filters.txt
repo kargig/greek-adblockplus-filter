@@ -680,6 +680,7 @@ imerodromos.gr##.elementor-widget-wp-widget-adrotate_widgets.elementor-widget.el
 imerodromos.gr##.elementor-widget-wp-widget-adrotate_widgets.elementor-widget.elementor-element-f8eec79.elementor-element
 imerodromos.gr##.elementor-widget-wp-widget-adrotate_widgets.elementor-widget.opapad.elementor-element-48f3775.elementor-element > .elementor-widget-container
 imerodromos.gr##.post-horizad
+imerodromos.gr##.banner--full
 in.gr###HeaderBanner
 in.gr###HomePageRightBanner3
 in.gr###LeftBanner1
