@@ -892,6 +892,12 @@ popaganda.gr##.banner
 popaganda.gr##.big-banner-top
 popaganda.gr##.main-margin.container > .newstrack-content.row > .post-margin-right.col-xs-8.col-md-8 > .waypoints.post-content > .affiliate > .textwidget
 prismanews.gr##.banneritem
+provocateur.gr##.billboardStickyWrap.container
+provocateur.gr###provoc_sidebar_1
+provocateur.gr##div.inArticleLG
+provocateur.gr###provoc_sidebar_2
+provocateur.gr###provoc_sidebar_3
+provocateur.gr##.billboardCnt
 queen.gr##.wide-banner
 real.gr###realTopBanner
 real.gr###realTopBannerGap
