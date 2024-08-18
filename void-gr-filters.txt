@@ -1094,6 +1094,7 @@ www.car.gr##.inlist.maskshop
 www.car.gr##.infacets.maskshop
 www.dwrean.net##a[href="http://www.kratisinow.gr"]
 www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
+xo.gr##.text-center.local-guides__banner
 !Anti-Phishing Rules
 goldenconcept.ir^$document
 indusviva.com^$document
