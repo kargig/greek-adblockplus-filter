@@ -377,6 +377,8 @@
 ||static.24media.gr/dealin/*
 ||static.24media.gr/interstitials/betoto/*
 ||static.24media.gr/push_down/bwin/*
+||static.crete2day.com/files/banners/*/*.gif$image
+||static.crete2day.com/files/banners/*.jpg$image
 ||static.reembed.com/data/logos/*
 ||static.scar.gr/ads/*
 ||stokokkino.gr/photos/gsk.jpg
@@ -530,6 +532,10 @@ cosmo.gr##.rightClickable
 cosmo.gr##A.sponsLink
 cretalive.gr###sma-banner-wide
 cretalive.gr###sponsors-mainmodule
+crete2day.com##[id^=front-banner]
+crete2day.com###front-banner
+crete2day.com###front-mobbanner2-container
+crete2day.com###news-mobdown-title-banner2
 cyclades24.gr##div[id*="clever_"]
 cyclades24.gr##iframe[src*="unblockia"]
 cyclades24.gr##.space3d
