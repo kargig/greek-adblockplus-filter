@@ -788,6 +788,7 @@ luben.tv###skin-container
 madata.gr###box_text_ads
 makeleio.gr###text-88 > .textwidget
 megatv.com##.is-relative.extra-sidebar
+mesogianews.gr##.float-right.header-ainfo
 meteo.gr##.cityAdv
 meteo.gr##.newsbeast
 milaraki.com###\5f widget-5
