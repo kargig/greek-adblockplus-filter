@@ -905,6 +905,19 @@ popaganda.gr##.banner
 popaganda.gr##.big-banner-top
 popaganda.gr##.main-margin.container > .newstrack-content.row > .post-margin-right.col-xs-8.col-md-8 > .waypoints.post-content > .affiliate > .textwidget
 prismanews.gr##.banneritem
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-0023e56.elementor-element
+proininews.gr##.cs-banner-elementor
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-9f5026d.elementor-element
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-f67660b.elementor-element
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-fda8036.elementor-element
+proininews.gr##.elementor-widget-shortcode.elementor-widget.elementor-element-9b1d83d.elementor-element
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-83f1fd8.elementor-element
+proininews.gr##.elementor-widget-image.elementor-widget.elementor-element-d8db731.elementor-element
+proininews.gr##.elementor-widget-shortcode.elementor-widget.elementor-element-187d168.elementor-element
+proininews.gr##.elementor-widget-shortcode.elementor-widget.elementor-element-d4636fd.elementor-element
+proininews.gr##.elementor-widget-shortcode.elementor-widget.elementor-element-697f9a4.elementor-element
+proininews.gr##.cs-sidebar__area.cs-widget-area
+proininews.gr##.single-ads
 pronews.gr##div.wrap-prodeals-widget
 provocateur.gr##.billboardStickyWrap.container
 provocateur.gr###provoc_sidebar_1
