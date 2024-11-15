@@ -1011,6 +1011,7 @@ sports.in.gr###RightBanner7
 sports.in.gr###middlebanner3
 start2click.com###primary:style(margin: 0 auto !important;)
 start2click.com###secondary
+stonisi.gr###advertisment
 subs4free.com###ad-box-right
 subs4free.com##A[href*="http://serve.williamhillcasino.com/"]
 supersyntages.gr###box-block-block-12
