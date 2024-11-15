@@ -786,6 +786,7 @@ larissanet.gr##.elementor-element-3db4f540
 larissanet.gr##.elementor-element-5680254d
 larissanet.gr##.jeg_ad
 larissanet.gr##.widget_sp_image
+lesvosnews.net##.region-banner-top.region.row
 live24.gr##.banner
 live24.gr##.bannerContent
 live24.gr###itrofi-left
