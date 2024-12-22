@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2024122200
+! Version: 2024122201
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -765,6 +765,7 @@ koutipandoras.gr##.top_ad_big
 koutipandoras.gr##.wpbrbannerinside
 kozanilife.gr#$#body{ background-image: none !important; }
 kozanilife.gr###carousel-1
+krinilive.gr##.container-full-width.container
 lamiareport.gr##div[id^="div-gpt-ad"]
 lamiareport.gr###LRGR:style(background: none !important;)
 lamiareport.gr###widgetAD > div
