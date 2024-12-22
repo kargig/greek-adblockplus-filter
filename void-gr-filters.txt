@@ -842,6 +842,12 @@ news247.gr##.minHeight--400
 news247.gr##.seatimage
 news247.gr##DIV[class=dheadRightBoxBot]
 news247.gr##div[class="banner"]
+news247.gr##.hp_billboard_a.ads_element
+news247.gr##.latest_stories.ads_element
+news247.gr##.hp_section_b.ads_element
+news247.gr##.hp_section_c.ads_element
+news247.gr##.hp_section_d.ads_element
+news247.gr##.hp_section_e.ads_element
 newsauto.gr###secondary
 newsbeast.gr###adFixFooter
 newsbeast.gr###artFoot
