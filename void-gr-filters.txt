@@ -1006,6 +1006,14 @@ sport24.gr##.premium_banner
 sport24.gr##[id^="ros"]
 sport24.gr##.article-single__body > .creative_placeholder.content-thirdParty
 sport24.gr##.article-single__body > .content-thirdParty
+sport24.gr##.content-thirdParty
+sport24.gr###hp_300x250a
+sport24.gr###hp_300x250b
+sport24.gr###hp_300x250c
+sport24.gr###hp_300x250d
+sport24.gr##.BetPartnersWidget--show-bet.BetPartnersWidget
+sport24.gr##[href^="https://www.bet365.gr/olp/open-account"]
+sport24.gr###someplaceholder
 sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
