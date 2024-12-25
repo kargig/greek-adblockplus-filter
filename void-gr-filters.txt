@@ -1171,11 +1171,7 @@ indusviva.com^$document
 aggeliestanea.gr#@#.adResult
 athensmagazine.gr#@#.ad_wrapper
 ediva.gr#@#.pub_300x250
-ediva.gr#@#.pub_300x250m
 ediva.gr#@#.pub_728x90
 ediva.gr#@#.text-ad
-ediva.gr#@#.text-ad-links
-ediva.gr#@#.text-ads
 ediva.gr#@#.textAd
 ediva.gr#@#.text_ad
-ediva.gr#@#.text_ads
