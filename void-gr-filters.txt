@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2024125201
+! Version: 2024128200
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -244,6 +244,7 @@
 ||kathimerini.com.cy/assets/modules/kat/banners/
 ||kathimerini.gr/kath/adv/
 ||kathimerini.gr/webadmin/home/Xor/*
+||kavalanews.gr/sites/all/modules/copyprevention/copyprevention.js^$script,1p
 ||koutipandoras.gr/img/adds/*
 ||koutipandoras.gr/sites/default/files/*banner*.swf
 ||koutipandoras.gr/skins/Koutipandoras.gr_Skin.jpg
@@ -750,6 +751,7 @@ kathimerini.gr##.ad-block-universal
 kathimerini.gr##.nxAds
 kathimerini.gr##.nxsidebar
 katohika.gr###text-12
+kavalanews.gr##+js(ra, onselectstart|oncopy, body, complete)
 kavalapoint.gr##.stream-item-top.stream-item
 kavalapoint.gr##[href="http://poulos-shop.gr"]
 kavalapoint.gr##.theiaStickySidebar > .widget_media_image.widget.container-wrapper
