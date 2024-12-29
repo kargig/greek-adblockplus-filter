@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2024128200
+! Version: 2024129200
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -480,6 +480,8 @@ amnizia.com##A[href="http://www.text-link-ads.com/"]
 anagnostis.org###block-kentroxenonglossonlogos
 anagnostis.org###headline
 antenna.gr###afdiv
+arcadiaportal.gr##+js(aost, Drupal, copyprevention)
+arcadiaportal.gr##+js(ra, oncopy, body, complete)
 athinorama.gr###left-adv
 athinorama.gr###right-adv
 athinorama.gr##.disaronnobox
@@ -759,6 +761,7 @@ kavalapoint.gr##.theiaStickySidebar > .widget_custom_html.widget.container-wrapp
 kavalapoint.gr##[href="http://www.toolpoint.gr"]
 kerdos.gr##div[class="RightColumnBanners"]
 kerdos.gr##div[class="bannerTables"]
+kolydas.gr##+js(ra, onselectstart|oncopy|oncontextmenu, body, complete)
 koutipandoras.gr###topfeatured
 koutipandoras.gr##.alignleft.size-full.wp-image-16703
 koutipandoras.gr##.banner
