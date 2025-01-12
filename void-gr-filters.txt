@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025011202
+! Version: 2025011203
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -37,7 +37,6 @@
 ||avopolis.gr/images/backskin5.gif
 ||away.gr/wp-content/themes/Carrington_Away/images/footer_l.jpg
 ||ax-easy.com/banners/
-||axiabanners.exodus.gr^
 ||bankingnews.gr/ad/*$image
 ||bankingnews.gr/ad/*/*$subdocument
 ||banners.otenet.gr/banner/all_banners/
@@ -414,8 +413,10 @@
 ||ads.24media.gr^
 ||ads.naftemporiki.gr^
 ||adserver.linkwise.gr^
+||adstorebluebird.cy^$third-party
 ||adwebone.com^$third-party
 ||affiliate.linkwise.gr^
+||axiabanners.exodus.gr^
 ||banners.dol.gr^
 ||bold.adman.gr^
 ||call.theowl.gr^
@@ -735,7 +736,6 @@ kathimerini.com.cy##.ban_pushdown
 kathimerini.com.cy##div[class*=ban_hor_]
 kathimerini.com.cy##.hban
 kathimerini.com.cy##.show.catfish_ad
-||adstorebluebird.cy^$third-party
 ! Sporadic fullpage overlay ad
 kathimerini.com.cy##.takeover-ban
 kathimerini.com.cy##.OverallBlockBg
