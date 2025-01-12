@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025011203
+! Version: 2025011204
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -489,7 +489,7 @@ bno.gr##IFRAME.blockrandom
 capital.gr##A[href*="http://www.capital.gr/click.asp"]
 capital.gr##TABLE[style="border: 1px solid rgb(194, 210, 216); background-color: rgb(240, 248, 255); font-size: 12px; padding: 2px;"]
 car.gr##[href*="funshop.gr"]
-car.gr##ol > li:has([href*="funshop.gr"]) 
+car.gr##ol > li:has([href*="funshop.gr"])
 car.gr##ol > li:has(.carzilla-ad)
 car.gr##.below-facets-ad
 car.gr##.carzilla-ad > li
@@ -568,11 +568,11 @@ eleftheria.gr##[src*="/banners/"]
 eleftheria.gr##div.title.sp-module:nth-of-type(5)
 eleftherostypos.gr##.ads-after-article-body
 elektronikosanagnostis.blogspot.com###crosscol-overflow
-energypress.gr##.ad-970-250
 emvolos.gr###text-10
 emvolos.gr###text-16
 emvolos.gr##.td_block_widget
 emvolos.gr##.vc_widget_sidebar
+energypress.gr##.ad-970-250
 enet.gr##DIV#b177
 enet.gr##DIV#b178
 enet.gr##DIV#b199
@@ -615,7 +615,6 @@ filoitexnisfilosofias.com###af-preloader
 filoitexnisfilosofias.com##.adsbygoogle
 filoitexnisfilosofias.com##.theiaStickySidebar
 fimotro.blogspot.com##.widget-content
-www.flash.gr##.ad___auto.ad
 flix.gr##.banner.medrect
 flix.gr##.banner.minirect
 fonien.gr##.bdaia-ad-container
@@ -1103,10 +1102,16 @@ voria.gr##EMBED#mymovie
 williamhill.com##A#promoLink
 womenonly.gr##.connxtvscroll
 www.candiadoc.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
+www.car.gr##.inlist.maskshop
+www.car.gr##.infacets.maskshop
 www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https://www.stoiximan.gr"]
+www.contra.gr##[href*="adman.gr"]
+www.dwrean.net##a[href="http://www.kratisinow.gr"]
+www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
+www.flash.gr##.ad___auto.ad
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 www.kritikes-aggelies.gr###banner-top-container
 www.kritikes-aggelies.gr###left-dress2
@@ -1115,9 +1120,12 @@ www.kritikes-aggelies.gr##.categories2:nth-of-type(3)
 www.lifo.gr###das_out
 www.lifo.gr##.textads-wrapper
 www.lifo.gr##a[href*="/lines/click/"]
+www.news247.gr##[href*="adman.gr"]
+www.news247.gr##[href*="bit.ly"]
 www.skroutz.gr###featurette
 www.sport-fm.gr##.bet-logos
 www.sport24.gr###stoiximan-cont > a[href^="http://www.stoiximan.gr"]
+www.sport24.gr##[href*="adman.gr"]
 www.taxheaven.gr###main > .ads
 www.taxheaven.gr##.aside
 www.techgear.gr##.leftClickable
@@ -1127,14 +1135,6 @@ www.techgear.gr##.ad__desktop.ad__div
 www.techgear.gr##.ad__div
 www.trinews.gr##body > table:nth-of-type(2)
 www.xo.gr###AdPremiumSticky
-www.news247.gr##[href*="adman.gr"]
-www.sport24.gr##[href*="adman.gr"]
-www.contra.gr##[href*="adman.gr"]
-www.news247.gr##[href*="bit.ly"]
-www.car.gr##.inlist.maskshop
-www.car.gr##.infacets.maskshop
-www.dwrean.net##a[href="http://www.kratisinow.gr"]
-www.dwrean.net##iframe[src="http://kratisinow.digitup.eu/widget/widget-artists"]
 xo.gr##.text-center.local-guides__banner
 ypodomes.com##.top-diaf.wrap-diaf
 ypodomes.com##div.widget.widget-diaf
