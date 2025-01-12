@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025011201
+! Version: 2025011202
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -203,10 +203,6 @@
 ||lifo.gr/icache/300/600/1/989673_wind_mila.jpg
 ||lifo.gr/icache/940/337/1/983904_GOT_970.jpg
 ||livikos.gr/adserver/
-||logotypos.gr/wp-content/uploads/2018/01/ektypotik3.gif$image
-||logotypos.gr/wp-content/uploads/2018/02/EKTYPOTIKH_LOW.jpg$image
-||logotypos.gr/wp-content/uploads/2018/03/TELIKO_BACKGROUND.jpg$image
-||logotypos.gr/wp-content/uploads/2020/10/%CE%9C%CE%A5%CE%98%CE%99%CE%A3%CE%A4%CE%9F%CE%A1%CE%97%CE%9C%CE%91-%CE%A1%CE%9F%CE%A5%CE%A3%CE%A3%CE%9F%CE%A5%CE%9D%CE%95%CE%9B%CE%9F%CE%A3-scaled.jpg$image
 ||luben.tv/wp-content/uploads/2014/11/output_cVZG2g.gif
 ||luben.tv/wp-content/uploads/2015/07/CORONA-SUNSETS_A-1.jpg
 ||luben.tv/wp-content/uploads/2015/09/unnamed.png
@@ -217,7 +213,6 @@
 ||makeleio.gr/wp-content/uploads/2014/11/NETRA_bannernew.jpg
 ||makeleio.gr/wp-content/uploads/2015/09/HyalurOn-250X250-Zampidis-2.jpg
 ||makthes.gr/filestore/banners/
-||marketnews.gr/banners/delonghi.gif$image
 ||marketnews.gr/banners/groupama_970x250.gif
 ||marketnews.gr/banners/ipos.jpg
 ||media.adslgr.com/www/images/1a31027deca376bfb2a140554a29a047.jpg^
@@ -318,7 +313,6 @@
 ||realestatenews.gr/images/stories/pomidaani.gif$image
 ||resources.sport-fm.gr/sportfm/banners/
 ||resources.sport-fm.gr/supersportFM/images/layout/campaigns/
-||rockinathens.gr/wp-content/uploads/2016/08/ritual-banner.gif$image
 ||roumlouki.gr/images/banners/
 ||roumlouki.gr/images/roumlouki_banners/
 ||runningnews.gr/bimages/
@@ -333,7 +327,6 @@
 ||secnews.gr/wp-content/uploads/2015/05/papei1.png
 ||seleo.gr/images/stories/diafimisi/
 ||seleo.gr/images/stories/mast/
-||seleo.gr/wp-content/uploads/2020/12/aaa5.png$image
 ||seri.gr/sites/default/iframes/
 ||skai.gr/Themes/1/Default/Media/Layout_Renault/
 ||skai.gr/Themes/1/Default/Media/Skins/ethiniki-trapeza*
@@ -381,7 +374,6 @@
 ||travelstyle.gr/portal/files/banners/*$image
 ||tuned.gr/images/stories/leo/vlas_toolbar.jpg
 ||tvcreta.gr/upload_images/banners/
-||tvxs.gr/sites/all/themes/xsonethree/skins/jobby_skinv3.jpg$image
 ||unboxholics.com/images/banners/eGalaxy/e-galaxyNew.jpg
 ||unboxholics.com/images/banners/inSpot/INSPOT_BANNER.jpg
 ||unibet-cdn.com^$domain=contra.gr
@@ -738,7 +730,6 @@ itechnews.gr##.boxzilla-overlay
 itechnews.gr##.itech-adlabel
 kalamatatimes.gr###mvp-leader-wrap
 kalamatatimes.gr###mvp-site-main:style(margin-top: 0px !important;)
-! https://www.kathimerini.com.cy/gr/
 kathimerini.com.cy##.ban-box
 kathimerini.com.cy##.ban_pushdown
 kathimerini.com.cy##div[class*=ban_hor_]
