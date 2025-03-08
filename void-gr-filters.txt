@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030801
+! Version: 2025030802
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -132,6 +132,8 @@
 ||gazzetta.gr/sites/all/themes/basic/images/banners/PokerStar*.jpg
 ||gazzetta.gr/sites/default/files/Anytime*.jpg
 ||geoloc12.geovisite.com:82/private/geocounter.js
+||goodnet.gr/files/goodnet/banners/*.jpg$image
+||goodnet.gr/files/goodnet/banners/*.gif$image
 ||gossip-tv.gr/images/banner
 ||gossip-tv.gr/media/com_news/ads/*$image
 ||gossip-tv.gr/media/com_skins/skins/
@@ -670,6 +672,7 @@ gazzetta.gr##A[href^="http://www.bet365.gr/"]
 gazzetta.gr##A[href*="http://www.novibet.com/Handlers/"]
 gazzetta.gr##A[href*="http://www.sportingbet.gr/paradise-poker/"]
 gazzetta.gr##A[href*="https://www.playbet.com/portal/"]
+goodnet.gr##div.col-side__subdivision:nth-of-type(2) > .callout > .callout__content
 gossip-tv.gr###textlinks
 gossip-tv.gr##.bottom-popout.is-open
 greekddl.com##DIV[id="floatit"]
