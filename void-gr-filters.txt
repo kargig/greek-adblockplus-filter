@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030808
+! Version: 2025030809
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1127,6 +1127,9 @@ vimaonline.gr###ad_13_left_1
 voicenews.gr##.row.sidebar-nav
 voria.gr###financial_widget > .financial_widget_top_line.financial_widget_line > .financial_widget_top_line_medium.financial_widget_line_medium > .peiraios_link[href="http://www.piraeusbankgroup.com/"]
 voria.gr##EMBED#mymovie
+vrisko.gr##.advImagePanel
+vrisko.gr###sponsorNewContainer
+vrisko.gr##a.eshopAdv
 williamhill.com##A#promoLink
 womenonly.gr##.connxtvscroll
 www.candiadoc.gr###main-content > .content-wrap:nth-of-type(1) > .content > .candiabanners-index
