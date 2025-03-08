@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030803
+! Version: 2025030804
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -516,6 +516,7 @@ car.gr##ol > li:has([href*="funshop.gr"])
 car.gr##ol > li:has(.carzilla-ad)
 car.gr##.below-facets-ad
 car.gr##.carzilla-ad > li
+carandmotor.gr##.buy_now_form
 clickatlife.gr###adLinks
 cnn.gr##div[class="story-textlinks row"]
 contra.gr###adtxtlink
