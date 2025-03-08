@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030802
+! Version: 2025030803
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -829,6 +829,7 @@ milaraki.com##A[href*="http://www.ez-smoke.net/"]
 milaraki.com##A[href*="http://www.indolucky7.com/sbobet/sbobet.html"]
 milaraki.com##A[href*=spinpalace]
 milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
+moneyonline.gr##.article-fullcontent > div:has-text(ADVERTISEMENT)
 monobala.gr##.mt-0.text-center.banner
 monobala.gr##.banner
 monobala.gr##.order-md-1.order-0.sidebar-widget
