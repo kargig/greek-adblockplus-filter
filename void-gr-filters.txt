@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030800
+! Version: 2025030801
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -970,6 +970,7 @@ serraikanea.gr###sp-right
 serraikanea.gr##.sp-page-title
 serraikanea.gr##.sppb-section-content-center
 sexgr.net#?#.left-col:-abp-has(h3:-abp-contains(Advertise))
+simerini.sigmalive.com##.ad-container
 skai.gr##.banner
 skai.gr##.skin.news[href="https://www.facebook.com/NAIstinEllada\a "]
 skai.gr##DIV#jw_wwg
