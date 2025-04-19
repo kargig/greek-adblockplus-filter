@@ -933,6 +933,10 @@ pcsteps.gr##div.single-subscribe-block
 philenews.com##aside
 pitsirikos.net###text-19
 player.real.gr##.advertisement
+politic.gr##.code-block
+politic.gr##.sticky-sidebar
+politic.gr###ad-container
+politic.gr##a[href="https://sj-finance.gr/"]
 politis.com.cy##.banner
 politis.com.cy##.tw-50[style^=overflow]
 politis.com.cy#?#.mobile-reverse:has(div[id^=div-gpt-])
