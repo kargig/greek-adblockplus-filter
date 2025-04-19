@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025030809
+! Version: 2025041901
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -570,6 +570,7 @@ e-enimerosi.com##.penci-widget-sidebar
 e-go.gr###advsliding352
 e-go.gr##.deal
 e-go.gr##div[class="agores"]
+e-howto.gr##.adsbygoogle
 e-ptolemeos.gr###custom_html-11
 e-ptolemeos.gr###custom_html-14
 e-ptolemeos.gr###custom_html-17
