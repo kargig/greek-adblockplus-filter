@@ -623,6 +623,8 @@ ethnos.gr##.srs
 ethnos.gr##DIV#promotext
 ethnos.gr##DIV.banner300250
 ethnos.gr##DIV.underphoto
+euro2day.gr##.billboard
+euro2day.gr##.bnrwrp
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
 evros-news.gr##img[src$=".gif"]
