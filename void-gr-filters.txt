@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2025060300
+! Version: 2025060301
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -708,6 +708,7 @@ imerodromos.gr##.elementor-widget-wp-widget-adrotate_widgets.elementor-widget.el
 imerodromos.gr##.elementor-widget-wp-widget-adrotate_widgets.elementor-widget.opapad.elementor-element-48f3775.elementor-element > .elementor-widget-container
 imerodromos.gr##.post-horizad
 imerodromos.gr##.banner--full
+imerodromos.gr##div[data-ocm-ad=""]
 in.gr###HeaderBanner
 in.gr###HomePageRightBanner3
 in.gr###LeftBanner1
