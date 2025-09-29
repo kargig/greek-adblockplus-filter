@@ -1016,6 +1016,8 @@ skai.gr##DIV#jw_wwg
 skai.gr##DIV#kw_logo
 skai.gr##DIV[id="sony-internet-tv-holder"]
 skai.gr##SPAN#jwlogo
+skai.gr##.mt-0.mb-20.vidverto.row
+skai.gr###preroll-wrapper
 skroutz.gr###banner_160_filters
 skroutz.gr###banner_160_home
 skroutz.gr###banner_728_home
