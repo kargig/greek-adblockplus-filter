@@ -623,6 +623,8 @@ enimerosi.com##video
 enimerosi.com##.skinBanner
 enimerosi.com##.sw-banner
 enimerosi.com##.detail-right-sd
+ertecho.gr##.adL
+ertecho.gr##.advert
 ethnos.gr##.deal
 ethnos.gr##.sls
 ethnos.gr##.srs
