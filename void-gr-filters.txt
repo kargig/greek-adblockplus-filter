@@ -591,6 +591,8 @@ e-thessalia.gr##.wpb_single_image:not(#printCover)
 efsyn.gr##.attachment-full.aligncenter
 efsyn.gr##.eng_ads
 efsyn.gr##.eng_recs_holder
+egnomi.gr##.banner
+egnomi.gr##.sidebanner
 eklogika.gr##.left_fixed
 eklogika.gr##.right_fixed
 eleftheria.gr##[src*="/BANNERS/"]
