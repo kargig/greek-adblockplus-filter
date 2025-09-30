@@ -933,6 +933,7 @@ opensoft.gr##DIV[style="border: 1px solid rgb(224, 224, 224); padding: 2px; marg
 oroskopos.gr###banners
 oroskopos.gr##.banners_mid_2
 parapolitika.gr##div.banner
+parapolitikaradio.gr###top-banner
 parentsgo.kidsgo.com.cy##.ast-above-header-wrap
 parentsgo.kidsgo.com.cy##.elementor-widget:has-text(Διαφήμιση)
 parentsgo.kidsgo.com.cy##[href="https://www.nup.ac.cy/gr/"]
