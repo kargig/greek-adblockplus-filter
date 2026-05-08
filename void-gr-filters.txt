@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2026050400
+! Version: 2026050800
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -255,6 +255,10 @@
 ||missbloom.gr/images/*skin*
 ||missbloom.gr/media/vidspics/*-skin.jpg
 ||moneybookers.com/images/banners/gr/
+||money-tourism.gr/wp-content/uploads/2026/03/KSD-Newsl_Slippers_A4*.jpg$image
+||money-tourism.gr/wp-content/uploads/2025/03/KSD*Adv*.jpg$image
+||money-tourism.gr/wp-content/uploads/2026/03/Ferragamo-02-LOW*.jpg$image
+||money-tourism.gr/wp-content/uploads/2024/02/e-shop*.jpg$image
 ||mothersblog.gr/media/com_skins/skins/79/
 ||mydirect.gr/CalculatorBanner.aspx?*
 ||myshopper.gr/ads/
@@ -865,6 +869,7 @@ milaraki.com##A[href*="http://www.ez-smoke.net/"]
 milaraki.com##A[href*="http://www.indolucky7.com/sbobet/sbobet.html"]
 milaraki.com##A[href*=spinpalace]
 milaraki.com##A[href="http://www.mp4converter.net/dvd-ripper-mac.html"]
+money-tourism.gr##.m-d-container:has(a.adv-link)
 moneyonline.gr##.article-fullcontent > div:has-text(ADVERTISEMENT)
 monobala.gr##.mt-0.text-center.banner
 monobala.gr##.banner
