@@ -480,15 +480,11 @@ aek365.gr##DIV[id="MaxFooterBannerCon"]
 aek365.gr##DIV[id="leo14102010e"]
 aek365.gr##DIV[id="vavouralis"]
 aek365.gr##IFRAME[src*=VistaBet]
-alphafm.gr##.slides
-alphafm.gr##.tdi_180.vc_widget_sidebar.td_block_wrap.wpb_wrapper
-alphafm.gr##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_155.vc_row_inner
-alphafm.gr##.tdi_152.vc_widget_sidebar.td_block_wrap.wpb_wrapper
-alphafm.gr###tdi_111
-alphafm.gr##[href^="https://qualcofoundation.com/"]
-alphafm.gr##.homethreehorizontal
-alphafm.gr###tdi_169
-alphafm.gr##[href="http://www.dauwin.gr"]
+alphafm.gr##.tdc-row:has(.td-a-rec)
+alphafm.gr##.tdc-row:has(.tdm-ii-wrap):not(:has(a[href^="https://www.facebook.com/"]))
+alphafm.gr##.tdc-row:has(div[aria-label="Scrolling Banners"])
+alphafm.gr##.tdc-row:has(ul.slides)
+alphafm.gr##.vc_widget_sidebar
 alterthess.gr###block-views-ads-sidebar-block-block
 amnizia.com##A[href="http://www.amnizia.com/advertisement"]
 amnizia.com##A[href="http://www.elcid.com/"]
