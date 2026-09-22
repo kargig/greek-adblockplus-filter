@@ -635,7 +635,7 @@ elniplex.com##.elementor-popup-modal
 elniplex.com##.cent-ad
 elniplex.com##.tdc-row:has(.wpb_wrapper > .td-a-rec .n2_clear)
 elniplex.com##[id^="divFLRA"]
-elniplex.com##html:style(overflow: auto !important)
+elniplex.com##html:style(overflow: auto !important;)
 emvolos.gr###text-10
 emvolos.gr###text-16
 emvolos.gr##.td_block_widget
