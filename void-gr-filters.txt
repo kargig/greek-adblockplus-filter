@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2026092200
+! Version: 2026092800
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -838,6 +838,9 @@ koutipandoras.gr##.wpbrbannerinside
 kozanilife.gr#$#body{ background-image: none !important; }
 kozanilife.gr###carousel-1
 krinilive.gr##.container-full-width.container
+krinilive.gr##.adrotate_widgets
+krinilive.gr##.entry-content > hr:has(+ p[align="right"] > small):xpath(preceding-sibling::*[1] | .):xpath(preceding-sibling::*[2] | .)
+krinilive.gr##.entry-content > p[align="right"]:has-text(Ads)
 kritikes-aggelies.gr###banner-top-container
 kritikes-aggelies.gr###left-dress2
 kritikes-aggelies.gr##.banner-side-collection
@@ -1046,6 +1049,7 @@ realestatenews.gr###right_col
 realestatenews.gr##.gk_tab_container0-style1
 realestatenews.gr##.gk_tab_wrap-style1
 runningnews.gr##body > table:nth-of-type(2)
+sakorafas.gr##.entry-content > p:has(a[href="https://esportspro.games/"])
 sday.gr##DIV.banners
 sentragoal.gr##IMG[src="images/betathome.jpg"]
 serraikanea.gr###sp-banners-carousel
