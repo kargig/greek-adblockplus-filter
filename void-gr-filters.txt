@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Greek AdBlock Filter
-! Version: 2026092900
+! Version: 2026101400
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1209,6 +1209,7 @@ trikalaola.gr##.tdi_59
 trinews.gr##body > table:nth-of-type(2)
 tro-ma-ktiko.blogspot.com##DIV#HTML14
 tro-ma-ktiko.blogspot.com##DIV#HTML15
+tvgreeklive.com###adAfterPlayer
 tvsubtitles.gr##A[href*="http://www.kazinoinfo.com/"]
 tvsubtitles.gr##DIV.box_main_ads
 tvxs.gr###wholesite1 > a[href^="http://jobby.gr"]
