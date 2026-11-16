@@ -1160,7 +1160,7 @@ techgear.gr##.leftClickable
 techgear.gr##.rightClickable
 techgear.gr##.ad__div
 techmaniacs.gr##.techm-adsense-bottom
-techmaniacs.gr##div[class*="border-slate-"]:has(> .items-center > .adsbygoogle)
+techmaniacs.gr##aside[aria-label="Article sidebar"]:has(> .lg\:sticky > div[class*="border-slate-"] > .items-center > .adsbygoogle)
 techmaniacs.gr##div[class^="techm-after-"]:has(> div[class^="gas_fallback-ad_"] > .adsbygoogle)
 techteam.gr##A[href*=spinpalace]
 tharrosnews.gr##center
