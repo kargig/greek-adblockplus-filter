@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Greek AdBlock Filter
-! Version: 2026102600
+! Version: 2026112000
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -231,6 +231,7 @@
 ||koutipandoras.gr/img/adds/
 ||koutipandoras.gr/sites/default/files/*banner*.swf
 ||koutipandoras.gr/skins/Koutipandoras.gr_Skin.jpg
+||lexigram.gr/lex/ABUsers.php$xhr
 ||lifo.gr/adsimg/
 ||lifo.gr/icache/300/600/1/989673_wind_mila.jpg
 ||lifo.gr/icache/940/337/1/983904_GOT_970.jpg
@@ -574,7 +575,6 @@ cosmo.gr##.rightClickable
 cosmo.gr##A.sponsLink
 cretalive.gr###sma-banner-wide
 cretalive.gr###sponsors-mainmodule
-crete2day.com##[id^=front-banner]
 crete2day.com###front-banner
 crete2day.com###front-mobbanner2-container
 crete2day.com###news-mobdown-title-banner2
@@ -869,6 +869,7 @@ larissanet.gr##.elementor-element-5680254d
 larissanet.gr##.jeg_ad
 larissanet.gr##.widget_sp_image
 lesvosnews.net##.region-banner-top.region.row
+lexigram.gr###divAdOthers
 lifo.gr###das_out
 lifo.gr##.textads-wrapper
 lifo.gr##a[href*="/lines/click/"]
@@ -909,6 +910,8 @@ myphone.gr###leftboxhome
 myphone.gr###rightboxhome
 myphone.gr##.leftbox
 myphone.gr##.rightbox
+myphone.gr###custom_html-2
+myphone.gr##body > div[onclick="linkme()"]
 naftemporiki.gr###google_ads_container
 naftemporiki.gr##DIV.banner
 naxospress.gr##.naxos-pano-apo-tin-epikefalida-se-ola
@@ -1010,6 +1013,7 @@ pcsteps.gr###text-65
 pcsteps.gr##div.single-subscribe-block
 philenews.com##aside
 pitsirikos.net###text-19
+poiein.gr##.widget_custom_html:has(script[src^="https://adspoiein.interten.gr/"])
 politic.gr##.code-block
 politic.gr##.sticky-sidebar
 politic.gr###ad-container
@@ -1155,9 +1159,11 @@ techgear.gr###text-39
 techgear.gr##.mobile_adv
 techgear.gr##.leftClickable
 techgear.gr##.rightClickable
-techgear.gr##div.sticky-el.ad__desktop.ad__div
-techgear.gr##.ad__desktop.ad__div
 techgear.gr##.ad__div
+techmaniacs.gr##.techm-adsense-bottom
+techmaniacs.gr##aside[aria-label="Article sidebar"]:has(> .lg\:sticky > div[class*="border-slate-"] > .items-center > .adsbygoogle)
+techmaniacs.gr##div[class^="techm-after-"]:has(> div[class^="gas_fallback-ad_"] > .adsbygoogle)
+techmaniacs.gr##html:is(.td-md-is-android,.td-md-is-ios) .td-banner-wrap-full
 techteam.gr##A[href*=spinpalace]
 tharrosnews.gr##center
 tharrosnews.gr##.custom-html-widget2
