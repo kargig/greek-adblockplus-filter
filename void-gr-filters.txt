@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Greek AdBlock Filter
-! Version: 2026111600
+! Version: 2026112000
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1013,6 +1013,7 @@ pcsteps.gr###text-65
 pcsteps.gr##div.single-subscribe-block
 philenews.com##aside
 pitsirikos.net###text-19
+poiein.gr##.widget_custom_html:has(script[src^="https://adspoiein.interten.gr/"])
 politic.gr##.code-block
 politic.gr##.sticky-sidebar
 politic.gr###ad-container
@@ -1162,6 +1163,7 @@ techgear.gr##.ad__div
 techmaniacs.gr##.techm-adsense-bottom
 techmaniacs.gr##aside[aria-label="Article sidebar"]:has(> .lg\:sticky > div[class*="border-slate-"] > .items-center > .adsbygoogle)
 techmaniacs.gr##div[class^="techm-after-"]:has(> div[class^="gas_fallback-ad_"] > .adsbygoogle)
+techmaniacs.gr##html:is(.td-md-is-android,.td-md-is-ios) .td-banner-wrap-full
 techteam.gr##A[href*=spinpalace]
 tharrosnews.gr##center
 tharrosnews.gr##.custom-html-widget2
