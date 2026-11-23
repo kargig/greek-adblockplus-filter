@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Greek AdBlock Filter
-! Version: 2026112000
+! Version: 2026112300
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -129,6 +129,7 @@
 ||enikos.gr/banners/bg/
 ||entertv.gr/sites/default/files/entertv_skin*
 ||epiruspost.gr/images/banners/
+||filathlos.gr/wp-content/uploads/2025/04/eac0704f-82e3-4af0-a2a7-46c5865aca41.jpg$image
 ||files.capital.gr/adserver/
 ||files.capital.gr/banners/
 ||files.capital.gr/images/dowjones/dowjones_home_logo_small.jpg
@@ -661,6 +662,7 @@ enimerosi.com##.sw-banner
 enimerosi.com##.detail-right-sd
 ertecho.gr##.adL
 ertecho.gr##.advert
+ertecho.gr##.content-sidebar
 ethnos.gr##.deal
 ethnos.gr##.sls
 ethnos.gr##.srs
@@ -682,6 +684,10 @@ filadelfia-xalkidona.gr##.td_flex_block
 filadelfia-xalkidona.gr##.td_mod_wrap
 filadelfia-xalkidona.gr##.tdi_88_ffb
 filadelfia-xalkidona.gr##.vc_raw_html
+filathlos.gr##.mx-auto:has(> .flex > div[data-ocm-ad])
+filathlos.gr##.mx-auto:has(> #taboola-alternating-below-article)
+filathlos.gr##div[class^="col-span-"]:has(> .flex > div[data-ocm-ad])
+filathlos.gr##img[alt="ad banner"]
 fileleutheros.net###sidebar-one
 fileleutheros.net###page-body-header
 filoitexnisfilosofias.com###af-preloader
