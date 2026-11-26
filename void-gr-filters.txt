@@ -681,8 +681,10 @@ eviaportal.gr###custom_html-2
 evros-news.gr##.adv
 evros-news.gr##.content-area > div[id^="text-"]
 evros-news.gr##.domino_boxed_layout > .no-fp-display.inner-wrap:has(> a[href][target="blanc"] > img[src])
+evros-news.gr##.entry-content > div[style^="clear:both;float:left;width:100%;"]:has(> .adsbygoogle)
 evros-news.gr##.entry-content > h4:has(> a[href] > img[decoding="async"][src])
-evros-news.gr##.entry-content > p:has(> a[href] > img[decoding="async"][src])
+evros-news.gr##.entry-content > p > a[href*="/polymedical-"]
+evros-news.gr##.entry-content > p:has(> a[href] > img[decoding="async"][src]):not(:has(br))
 evros-news.gr##.home_widgets > div[id^="text-"]
 evros-news.gr##.theiaStickySidebar > .widget_custom_html:has(> .textwidget > img[style="width: 100%;"][src])
 evros-news.gr##.theiaStickySidebar > div[id^="text-"]
