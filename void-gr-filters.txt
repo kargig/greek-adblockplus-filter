@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Greek AdBlock Filter
-! Version: 2026112300
+! Version: 2026112600
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -129,6 +129,11 @@
 ||enikos.gr/banners/bg/
 ||entertv.gr/sites/default/files/entertv_skin*
 ||epiruspost.gr/images/banners/
+||evros-news.gr/wp-content/uploads/*.gif$image
+||evros-news.gr/wp-content/uploads/*/Istikbal-therapy-plus-*.jpg$image
+||evros-news.gr/wp-content/uploads/*/ktel.png$image
+||evros-news.gr/wp-content/uploads/*/new_kriton_banner_*.jpg$image
+||evros-news.gr/wp-content/uploads/*/sialakis-*.jpg$image
 ||filathlos.gr/wp-content/uploads/2025/04/eac0704f-82e3-4af0-a2a7-46c5865aca41.jpg$image
 ||files.capital.gr/adserver/
 ||files.capital.gr/banners/
@@ -673,12 +678,16 @@ euro2day.gr##.billboard
 euro2day.gr##.bnrwrp
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
-evros-news.gr##img[src$=".gif"]
 evros-news.gr##.adv
-evros-news.gr##.widget_text[class^="widget-"]
-evros-news.gr##[href^="https://istikbalkouros.gr"]
-evros-news.gr##[href^="https://kriton-energy.com"]
-evros-news.gr##[href^="https://casadikouros.gr"]
+evros-news.gr##.content-area > div[id^="text-"]
+evros-news.gr##.domino_boxed_layout > .no-fp-display.inner-wrap:has(> a[href][target="blanc"] > img[src])
+evros-news.gr##.entry-content > div[style^="clear:both;float:left;width:100%;"]:has(> .adsbygoogle)
+evros-news.gr##.entry-content > h4:has(> a[href] > img[decoding="async"][src])
+evros-news.gr##.entry-content > p > a[href*="/polymedical-"]
+evros-news.gr##.entry-content > p:has(> a[href] > img[decoding="async"][src]):not(:has(br))
+evros-news.gr##.home_widgets > div[id^="text-"]
+evros-news.gr##.theiaStickySidebar > .widget_custom_html:has(> .textwidget > img[style="width: 100%;"][src])
+evros-news.gr##.theiaStickySidebar > div[id^="text-"]
 filadelfia-xalkidona.gr##.td_block_15
 filadelfia-xalkidona.gr##.td_flex_block
 filadelfia-xalkidona.gr##.td_mod_wrap
